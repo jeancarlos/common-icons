@@ -1,0 +1,8265 @@
+[
+  {
+    "enumName": "AI_08_SOLID_ROUND",
+    "displayName": "Ai 8 Solid Round",
+    "category": "AI",
+    "tags": [
+      "artificial intelligence",
+      "machine learning",
+      "generative",
+      "smart",
+      "auto",
+      "ai",
+      "solid",
+      "round"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/ai/ai-08-solid-round.svg"
+  },
+  {
+    "enumName": "WALLET_03_SOLID_ROUNDED",
+    "displayName": "Wallet 3 Solid Rounded",
+    "category": "Finance",
+    "tags": [
+      "payment",
+      "banking",
+      "currency",
+      "transfer",
+      "withdraw",
+      "money",
+      "wallet",
+      "solid",
+      "rounded",
+      "finance"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/finance/wallet-03-solid-rounded.svg"
+  },
+  {
+    "enumName": "CHECK_CIRCLE",
+    "displayName": "Check Circle",
+    "category": "Status & Feedback",
+    "tags": [
+      "success",
+      "error",
+      "confirm",
+      "validate",
+      "status",
+      "feedback",
+      "check",
+      "circle",
+      "status & feedback"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/status & feedback/check-circle.svg"
+  },
+  {
+    "enumName": "USER_MULTIPLY",
+    "displayName": "User Multiply",
+    "category": "Users",
+    "tags": [
+      "people",
+      "profile",
+      "team",
+      "group",
+      "person",
+      "account",
+      "user",
+      "multiply",
+      "users"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/users/user-multiply.svg"
+  },
+  {
+    "enumName": "LIST_BULLET_LEFT_TO_RIGHT",
+    "displayName": "List Bullet Left To Right",
+    "category": "Layout & Views",
+    "tags": [
+      "view",
+      "display",
+      "board",
+      "grid",
+      "list",
+      "layout",
+      "bullet",
+      "left",
+      "to",
+      "right",
+      "layout & views"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/layout & views/list-bullet-left-to-right.svg"
+  },
+  {
+    "enumName": "USER_QUESTION_MARK",
+    "displayName": "User Question Mark",
+    "category": "Users",
+    "tags": [
+      "people",
+      "profile",
+      "team",
+      "group",
+      "person",
+      "account",
+      "user",
+      "question",
+      "mark",
+      "users"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/users/user-question-mark.svg"
+  },
+  {
+    "enumName": "HOME_START",
+    "displayName": "Home Start",
+    "category": "Navigation",
+    "tags": [
+      "home",
+      "menu",
+      "navigation",
+      "link",
+      "location",
+      "start"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/navigation/home-start.svg"
+  },
+  {
+    "enumName": "SORTING_ASC",
+    "displayName": "Sorting Asc",
+    "category": "Filter & Sort",
+    "tags": [
+      "order",
+      "ascending",
+      "descending",
+      "organize",
+      "filter",
+      "sorting",
+      "asc",
+      "filter & sort"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/filter & sort/sorting-asc.svg"
+  },
+  {
+    "enumName": "SORTING_DESC",
+    "displayName": "Sorting Desc",
+    "category": "Filter & Sort",
+    "tags": [
+      "order",
+      "ascending",
+      "descending",
+      "organize",
+      "filter",
+      "sorting",
+      "desc",
+      "filter & sort"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/filter & sort/sorting-desc.svg"
+  },
+  {
+    "enumName": "REPEATE_ONE_02",
+    "displayName": "Repeate One 2",
+    "category": "Interface",
+    "tags": [
+      "interface",
+      "action",
+      "ui",
+      "interaction",
+      "repeate",
+      "one"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/interface/repeate-one-02.svg"
+  },
+  {
+    "enumName": "SORTING_1_9",
+    "displayName": "Sorting 1 9",
+    "category": "Filter & Sort",
+    "tags": [
+      "order",
+      "ascending",
+      "descending",
+      "organize",
+      "filter",
+      "sorting",
+      "filter & sort"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/filter & sort/sorting-1-9.svg"
+  },
+  {
+    "enumName": "SORTING_9_1",
+    "displayName": "Sorting 9 1",
+    "category": "Filter & Sort",
+    "tags": [
+      "order",
+      "ascending",
+      "descending",
+      "organize",
+      "filter",
+      "sorting",
+      "filter & sort"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/filter & sort/sorting-9-1.svg"
+  },
+  {
+    "enumName": "BLOCKCHAIN",
+    "displayName": "Blockchain",
+    "category": "Data & Analytics",
+    "tags": [
+      "graph",
+      "metrics",
+      "statistics",
+      "report",
+      "data",
+      "database",
+      "blockchain",
+      "data & analytics"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/data & analytics/blockchain.svg"
+  },
+  {
+    "enumName": "CHART_LINE",
+    "displayName": "Chart Line",
+    "category": "Data & Analytics",
+    "tags": [
+      "graph",
+      "metrics",
+      "statistics",
+      "report",
+      "data",
+      "database",
+      "chart",
+      "line",
+      "data & analytics"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/data & analytics/chart-line.svg"
+  },
+  {
+    "enumName": "COLUMN_CHART",
+    "displayName": "Column Chart",
+    "category": "Data & Analytics",
+    "tags": [
+      "graph",
+      "metrics",
+      "statistics",
+      "report",
+      "data",
+      "database",
+      "column",
+      "chart",
+      "data & analytics"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/data & analytics/column-chart.svg"
+  },
+  {
+    "enumName": "ARROW_LEFT_RIGHT",
+    "displayName": "Arrow Left Right",
+    "category": "Arrows",
+    "tags": [
+      "navigation",
+      "direction",
+      "back",
+      "forward",
+      "up",
+      "down",
+      "expand",
+      "collapse",
+      "arrow",
+      "left",
+      "right",
+      "arrows"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/arrows/arrow-left-right.svg"
+  },
+  {
+    "enumName": "ARROW_MOVE_DOWN_RIGHT",
+    "displayName": "Arrow Move Down Right",
+    "category": "Arrows",
+    "tags": [
+      "navigation",
+      "direction",
+      "back",
+      "forward",
+      "up",
+      "down",
+      "expand",
+      "collapse",
+      "arrow",
+      "move",
+      "right",
+      "arrows"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/arrows/arrow-move-down-right.svg"
+  },
+  {
+    "enumName": "MINUS_CIRCLE",
+    "displayName": "Minus Circle",
+    "category": "Add & Remove",
+    "tags": [
+      "create",
+      "remove",
+      "cancel",
+      "clear",
+      "add",
+      "minus",
+      "circle",
+      "add & remove"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/add & remove/minus-circle.svg"
+  },
+  {
+    "enumName": "SUBNODE_ADD",
+    "displayName": "Subnode Add",
+    "category": "Add & Remove",
+    "tags": [
+      "create",
+      "remove",
+      "cancel",
+      "clear",
+      "add",
+      "subnode",
+      "add & remove"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/add & remove/subnode-add.svg"
+  },
+  {
+    "enumName": "CLEAN",
+    "displayName": "Clean",
+    "category": "Interface",
+    "tags": [
+      "interface",
+      "action",
+      "ui",
+      "interaction",
+      "clean"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/interface/clean.svg"
+  },
+  {
+    "enumName": "BANK",
+    "displayName": "Bank",
+    "category": "Finance",
+    "tags": [
+      "payment",
+      "banking",
+      "currency",
+      "transfer",
+      "withdraw",
+      "money",
+      "bank",
+      "finance"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/finance/bank.svg"
+  },
+  {
+    "enumName": "ADD_CIRCLE",
+    "displayName": "Add Circle",
+    "category": "Add & Remove",
+    "tags": [
+      "create",
+      "remove",
+      "cancel",
+      "clear",
+      "add",
+      "circle",
+      "add & remove"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/add & remove/add-circle.svg"
+  },
+  {
+    "enumName": "EDIT_FILE",
+    "displayName": "Edit File",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "edit",
+      "file",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/edit-file.svg"
+  },
+  {
+    "enumName": "DIRECTIONS",
+    "displayName": "Directions",
+    "category": "Navigation",
+    "tags": [
+      "home",
+      "menu",
+      "navigation",
+      "link",
+      "location",
+      "directions"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/navigation/directions.svg"
+  },
+  {
+    "enumName": "DOLLAR_MONEY_CIPHER",
+    "displayName": "Dollar Money Cipher",
+    "category": "Finance",
+    "tags": [
+      "payment",
+      "banking",
+      "currency",
+      "transfer",
+      "withdraw",
+      "money",
+      "dollar",
+      "cipher",
+      "finance"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/finance/dollar-money-cipher.svg"
+  },
+  {
+    "enumName": "CIRCLE_ARROW_UP_RIGHT",
+    "displayName": "Circle Arrow Up Right",
+    "category": "Arrows",
+    "tags": [
+      "navigation",
+      "direction",
+      "back",
+      "forward",
+      "up",
+      "down",
+      "expand",
+      "collapse",
+      "circle",
+      "arrow",
+      "right",
+      "arrows"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/arrows/circle-arrow-up-right.svg"
+  },
+  {
+    "enumName": "CIRCLE_ARROW_DOWN_LEFT",
+    "displayName": "Circle Arrow Down Left",
+    "category": "Arrows",
+    "tags": [
+      "navigation",
+      "direction",
+      "back",
+      "forward",
+      "up",
+      "down",
+      "expand",
+      "collapse",
+      "circle",
+      "arrow",
+      "left",
+      "arrows"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/arrows/circle-arrow-down-left.svg"
+  },
+  {
+    "enumName": "MONEY_BAG_02",
+    "displayName": "Money Bag 2",
+    "category": "Finance",
+    "tags": [
+      "payment",
+      "banking",
+      "currency",
+      "transfer",
+      "withdraw",
+      "money",
+      "bag",
+      "finance"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/finance/money-bag-02.svg"
+  },
+  {
+    "enumName": "MONEY_SECURITY",
+    "displayName": "Money Security",
+    "category": "Finance",
+    "tags": [
+      "payment",
+      "banking",
+      "currency",
+      "transfer",
+      "withdraw",
+      "money",
+      "security",
+      "finance"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/finance/money-security.svg"
+  },
+  {
+    "enumName": "DOLLAR_RECEIVE_01",
+    "displayName": "Dollar Receive 1",
+    "category": "Finance",
+    "tags": [
+      "payment",
+      "banking",
+      "currency",
+      "transfer",
+      "withdraw",
+      "money",
+      "dollar",
+      "receive",
+      "finance"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/finance/dollar-receive-01.svg"
+  },
+  {
+    "enumName": "PAYMENT_01",
+    "displayName": "Payment 1",
+    "category": "Finance",
+    "tags": [
+      "payment",
+      "banking",
+      "currency",
+      "transfer",
+      "withdraw",
+      "money",
+      "finance"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/finance/payment-01.svg"
+  },
+  {
+    "enumName": "TAXES",
+    "displayName": "Taxes",
+    "category": "Finance",
+    "tags": [
+      "payment",
+      "banking",
+      "currency",
+      "transfer",
+      "withdraw",
+      "money",
+      "taxes",
+      "finance"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/finance/taxes.svg"
+  },
+  {
+    "enumName": "CART_SHOPPING",
+    "displayName": "Cart Shopping",
+    "category": "E-Commerce",
+    "tags": [
+      "shop",
+      "buy",
+      "store",
+      "basket",
+      "order",
+      "cart",
+      "barcode",
+      "shopping",
+      "e-commerce"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/e-commerce/cart-shopping.svg"
+  },
+  {
+    "enumName": "CART_CHECK",
+    "displayName": "Cart Check",
+    "category": "E-Commerce",
+    "tags": [
+      "shop",
+      "buy",
+      "store",
+      "basket",
+      "order",
+      "cart",
+      "barcode",
+      "check",
+      "e-commerce"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/e-commerce/cart-check.svg"
+  },
+  {
+    "enumName": "SHOPPING_CART_ADD",
+    "displayName": "Shopping Cart Add",
+    "category": "E-Commerce",
+    "tags": [
+      "shop",
+      "buy",
+      "store",
+      "basket",
+      "order",
+      "cart",
+      "barcode",
+      "shopping",
+      "add",
+      "e-commerce"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/e-commerce/shopping-cart-add.svg"
+  },
+  {
+    "enumName": "SHOPPING_CART_CHECK_IN",
+    "displayName": "Shopping Cart Check In",
+    "category": "E-Commerce",
+    "tags": [
+      "shop",
+      "buy",
+      "store",
+      "basket",
+      "order",
+      "cart",
+      "barcode",
+      "shopping",
+      "check",
+      "in",
+      "e-commerce"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/e-commerce/shopping-cart-check-in.svg"
+  },
+  {
+    "enumName": "SIMPLE_CHECK",
+    "displayName": "Simple Check",
+    "category": "Status & Feedback",
+    "tags": [
+      "success",
+      "error",
+      "confirm",
+      "validate",
+      "status",
+      "feedback",
+      "simple",
+      "check",
+      "status & feedback"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/status & feedback/simple-check.svg"
+  },
+  {
+    "enumName": "REVERSE_WITHDRAWAL_01",
+    "displayName": "Reverse Withdrawal 1",
+    "category": "Finance",
+    "tags": [
+      "payment",
+      "banking",
+      "currency",
+      "transfer",
+      "withdraw",
+      "money",
+      "reverse",
+      "withdrawal",
+      "finance"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/finance/reverse-withdrawal-01.svg"
+  },
+  {
+    "enumName": "ACCOUNT_SETTING_03",
+    "displayName": "Account Setting 3",
+    "category": "Users",
+    "tags": [
+      "people",
+      "profile",
+      "team",
+      "group",
+      "person",
+      "account",
+      "setting",
+      "users"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/users/account-setting-03.svg"
+  },
+  {
+    "enumName": "SIMPLE_ADD",
+    "displayName": "Simple Add",
+    "category": "Add & Remove",
+    "tags": [
+      "create",
+      "remove",
+      "cancel",
+      "clear",
+      "add",
+      "simple",
+      "add & remove"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/add & remove/simple-add.svg"
+  },
+  {
+    "enumName": "CHECK_MARK_BADGE",
+    "displayName": "Check Mark Badge",
+    "category": "Payment Badges",
+    "tags": [
+      "payment method",
+      "checkout",
+      "badge",
+      "check",
+      "mark",
+      "payment badges"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/payment badges/check-mark-badge.svg"
+  },
+  {
+    "enumName": "SAVE_MARK",
+    "displayName": "Save Mark",
+    "category": "Editing",
+    "tags": [
+      "write",
+      "draw",
+      "duplicate",
+      "clipboard",
+      "edit",
+      "save",
+      "mark",
+      "editing"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/editing/save-mark.svg"
+  },
+  {
+    "enumName": "SETTINGS",
+    "displayName": "Settings",
+    "category": "Settings & Tools",
+    "tags": [
+      "config",
+      "preferences",
+      "gear",
+      "options",
+      "tools",
+      "settings",
+      "settings & tools"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/settings & tools/settings.svg"
+  },
+  {
+    "enumName": "PENCIL_EDIT",
+    "displayName": "Pencil Edit",
+    "category": "Editing",
+    "tags": [
+      "write",
+      "draw",
+      "duplicate",
+      "clipboard",
+      "edit",
+      "pencil",
+      "editing"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/editing/pencil-edit.svg"
+  },
+  {
+    "enumName": "PENCIL_EDIT_AI",
+    "displayName": "Pencil Edit Ai",
+    "category": "AI",
+    "tags": [
+      "artificial intelligence",
+      "machine learning",
+      "generative",
+      "smart",
+      "auto",
+      "pencil",
+      "edit",
+      "ai"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/ai/pencil-edit-ai.svg"
+  },
+  {
+    "enumName": "DELETE_MARK_BUTTON_02",
+    "displayName": "Delete Mark Button 2",
+    "category": "Add & Remove",
+    "tags": [
+      "create",
+      "remove",
+      "cancel",
+      "clear",
+      "add",
+      "delete",
+      "mark",
+      "button",
+      "add & remove"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/add & remove/delete-mark-button-02.svg"
+  },
+  {
+    "enumName": "SHARE_BUTTON_MARK",
+    "displayName": "Share Button Mark",
+    "category": "Editing",
+    "tags": [
+      "write",
+      "draw",
+      "duplicate",
+      "clipboard",
+      "edit",
+      "share",
+      "button",
+      "mark",
+      "editing"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/editing/share-button-mark.svg"
+  },
+  {
+    "enumName": "CHEVRON_LEFT",
+    "displayName": "Chevron Left",
+    "category": "Arrows",
+    "tags": [
+      "navigation",
+      "direction",
+      "back",
+      "forward",
+      "up",
+      "down",
+      "expand",
+      "collapse",
+      "chevron",
+      "left",
+      "arrows"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/arrows/chevron-left.svg"
+  },
+  {
+    "enumName": "CHEVRON_RIGHT",
+    "displayName": "Chevron Right",
+    "category": "Arrows",
+    "tags": [
+      "navigation",
+      "direction",
+      "back",
+      "forward",
+      "up",
+      "down",
+      "expand",
+      "collapse",
+      "chevron",
+      "right",
+      "arrows"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/arrows/chevron-right.svg"
+  },
+  {
+    "enumName": "SQUARE_FILL",
+    "displayName": "Square Fill",
+    "category": "UI Controls",
+    "tags": [
+      "input",
+      "control",
+      "form",
+      "toggle",
+      "checkbox",
+      "radio",
+      "square",
+      "fill",
+      "ui controls"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/ui controls/square-fill.svg"
+  },
+  {
+    "enumName": "CLOSE_MARK_BUTTON",
+    "displayName": "Close Mark Button",
+    "category": "Add & Remove",
+    "tags": [
+      "create",
+      "remove",
+      "cancel",
+      "clear",
+      "add",
+      "close",
+      "mark",
+      "button",
+      "add & remove"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/add & remove/close-mark-button.svg"
+  },
+  {
+    "enumName": "ARROW_DOWN_CICLE",
+    "displayName": "Arrow Down Cicle",
+    "category": "Arrows",
+    "tags": [
+      "navigation",
+      "direction",
+      "back",
+      "forward",
+      "up",
+      "down",
+      "expand",
+      "collapse",
+      "arrow",
+      "cicle",
+      "arrows"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/arrows/arrow-down-cicle.svg"
+  },
+  {
+    "enumName": "HELP_CIRCLE",
+    "displayName": "Help Circle",
+    "category": "Status & Feedback",
+    "tags": [
+      "success",
+      "error",
+      "confirm",
+      "validate",
+      "status",
+      "feedback",
+      "help",
+      "circle",
+      "status & feedback"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/status & feedback/help-circle.svg"
+  },
+  {
+    "enumName": "VIEW_OFF",
+    "displayName": "View Off",
+    "category": "Security",
+    "tags": [
+      "privacy",
+      "password",
+      "authentication",
+      "security",
+      "view",
+      "off"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/security/view-off.svg"
+  },
+  {
+    "enumName": "VIEW_ON",
+    "displayName": "View On",
+    "category": "Interface",
+    "tags": [
+      "interface",
+      "action",
+      "ui",
+      "interaction",
+      "view",
+      "on"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/interface/view-on.svg"
+  },
+  {
+    "enumName": "INTERNET",
+    "displayName": "Internet",
+    "category": "Navigation",
+    "tags": [
+      "home",
+      "menu",
+      "navigation",
+      "link",
+      "location",
+      "internet"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/navigation/internet.svg"
+  },
+  {
+    "enumName": "DELETE_BUTTON_MARK",
+    "displayName": "Delete Button Mark",
+    "category": "Add & Remove",
+    "tags": [
+      "create",
+      "remove",
+      "cancel",
+      "clear",
+      "add",
+      "delete",
+      "button",
+      "mark",
+      "add & remove"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/add & remove/delete-button-mark.svg"
+  },
+  {
+    "enumName": "SEARCH_IMAGE",
+    "displayName": "Search Image",
+    "category": "Search",
+    "tags": [
+      "find",
+      "lookup",
+      "magnifying glass",
+      "search",
+      "image"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/search/search-image.svg"
+  },
+  {
+    "enumName": "MINUS_SIGN",
+    "displayName": "Minus Sign",
+    "category": "Add & Remove",
+    "tags": [
+      "create",
+      "remove",
+      "cancel",
+      "clear",
+      "add",
+      "minus",
+      "sign",
+      "add & remove"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/add & remove/minus-sign.svg"
+  },
+  {
+    "enumName": "WARNING_TRIANGULE",
+    "displayName": "Warning Triangule",
+    "category": "Status & Feedback",
+    "tags": [
+      "success",
+      "error",
+      "confirm",
+      "validate",
+      "status",
+      "feedback",
+      "warning",
+      "triangule",
+      "status & feedback"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/status & feedback/warning-triangule.svg"
+  },
+  {
+    "enumName": "WARNING_TRIANGLE",
+    "displayName": "Warning Triangle",
+    "category": "Status & Feedback",
+    "tags": [
+      "success",
+      "error",
+      "confirm",
+      "validate",
+      "status",
+      "feedback",
+      "warning",
+      "triangle",
+      "status & feedback"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/status & feedback/warning-triangle.svg"
+  },
+  {
+    "enumName": "WARNING_TRIANGLE_SOLID",
+    "displayName": "Warning Triangle Solid",
+    "category": "Status & Feedback",
+    "tags": [
+      "success",
+      "error",
+      "confirm",
+      "validate",
+      "status",
+      "feedback",
+      "warning",
+      "triangle",
+      "solid",
+      "status & feedback"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/status & feedback/warning-triangle-solid.svg"
+  },
+  {
+    "enumName": "SEARCH_MAGNIFYING_GLASS",
+    "displayName": "Search Magnifying Glass",
+    "category": "Search",
+    "tags": [
+      "find",
+      "lookup",
+      "magnifying glass",
+      "search",
+      "magnifying",
+      "glass"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/search/search-magnifying-glass.svg"
+  },
+  {
+    "enumName": "ADD_IMAGE",
+    "displayName": "Add Image",
+    "category": "Media",
+    "tags": [
+      "audio",
+      "video",
+      "media",
+      "play",
+      "record",
+      "add",
+      "image"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/media/add-image.svg"
+  },
+  {
+    "enumName": "CLOUD_UPLOAD",
+    "displayName": "Cloud Upload",
+    "category": "Cloud & Transfer",
+    "tags": [
+      "cloud",
+      "download",
+      "upload",
+      "transfer",
+      "sync",
+      "cloud & transfer"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/cloud & transfer/cloud-upload.svg"
+  },
+  {
+    "enumName": "CLOUD_EXPORT",
+    "displayName": "Cloud Export",
+    "category": "Cloud & Transfer",
+    "tags": [
+      "cloud",
+      "download",
+      "upload",
+      "transfer",
+      "sync",
+      "export",
+      "cloud & transfer"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/cloud & transfer/cloud-export.svg"
+  },
+  {
+    "enumName": "INFO",
+    "displayName": "Info",
+    "category": "Status & Feedback",
+    "tags": [
+      "success",
+      "error",
+      "confirm",
+      "validate",
+      "status",
+      "feedback",
+      "info",
+      "status & feedback"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/status & feedback/info.svg"
+  },
+  {
+    "enumName": "INFO_CIRCLE",
+    "displayName": "Info Circle",
+    "category": "Status & Feedback",
+    "tags": [
+      "success",
+      "error",
+      "confirm",
+      "validate",
+      "status",
+      "feedback",
+      "info",
+      "circle",
+      "status & feedback"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/status & feedback/info-circle.svg"
+  },
+  {
+    "enumName": "COPY_CONTENT",
+    "displayName": "Copy Content",
+    "category": "Editing",
+    "tags": [
+      "write",
+      "draw",
+      "duplicate",
+      "clipboard",
+      "edit",
+      "copy",
+      "content",
+      "editing"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/editing/copy-content.svg"
+  },
+  {
+    "enumName": "MESSAGE_QUESTION",
+    "displayName": "Message Question",
+    "category": "Communication",
+    "tags": [
+      "email",
+      "notify",
+      "alert",
+      "inbox",
+      "chat",
+      "message",
+      "question",
+      "communication"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/communication/message-question.svg"
+  },
+  {
+    "enumName": "COMPUTER_PROGRAMMING_02",
+    "displayName": "Computer Programming 2",
+    "category": "Development",
+    "tags": [
+      "code",
+      "programming",
+      "development",
+      "api",
+      "computer"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/development/computer-programming-02.svg"
+  },
+  {
+    "enumName": "ALERT_CIRCLE",
+    "displayName": "Alert Circle",
+    "category": "Status & Feedback",
+    "tags": [
+      "success",
+      "error",
+      "confirm",
+      "validate",
+      "status",
+      "feedback",
+      "alert",
+      "circle",
+      "status & feedback"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/status & feedback/alert-circle.svg"
+  },
+  {
+    "enumName": "WALLET",
+    "displayName": "Wallet",
+    "category": "Finance",
+    "tags": [
+      "payment",
+      "banking",
+      "currency",
+      "transfer",
+      "withdraw",
+      "money",
+      "wallet",
+      "finance"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/finance/wallet.svg"
+  },
+  {
+    "enumName": "WALLET_02",
+    "displayName": "Wallet 2",
+    "category": "Finance",
+    "tags": [
+      "payment",
+      "banking",
+      "currency",
+      "transfer",
+      "withdraw",
+      "money",
+      "wallet",
+      "finance"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/finance/wallet-02.svg"
+  },
+  {
+    "enumName": "WALLET_03",
+    "displayName": "Wallet 3",
+    "category": "Finance",
+    "tags": [
+      "payment",
+      "banking",
+      "currency",
+      "transfer",
+      "withdraw",
+      "money",
+      "wallet",
+      "finance"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/finance/wallet-03.svg"
+  },
+  {
+    "enumName": "TASK_ADD_01",
+    "displayName": "Task Add 1",
+    "category": "Add & Remove",
+    "tags": [
+      "create",
+      "remove",
+      "cancel",
+      "clear",
+      "add",
+      "task",
+      "add & remove"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/add & remove/task-add-01.svg"
+  },
+  {
+    "enumName": "PACKAGE",
+    "displayName": "Package",
+    "category": "Logistics",
+    "tags": [
+      "transport",
+      "tracking",
+      "shipping",
+      "delivery",
+      "package",
+      "logistics"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/logistics/package.svg"
+  },
+  {
+    "enumName": "PAINT_BOARD",
+    "displayName": "Paint Board",
+    "category": "Editing",
+    "tags": [
+      "write",
+      "draw",
+      "duplicate",
+      "clipboard",
+      "edit",
+      "paint",
+      "board",
+      "editing"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/editing/paint-board.svg"
+  },
+  {
+    "enumName": "CREATIVE_MARKET",
+    "displayName": "Creative Market",
+    "category": "Interface",
+    "tags": [
+      "interface",
+      "action",
+      "ui",
+      "interaction",
+      "creative",
+      "market"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/interface/creative-market.svg"
+  },
+  {
+    "enumName": "RULER",
+    "displayName": "Ruler",
+    "category": "Interface",
+    "tags": [
+      "interface",
+      "action",
+      "ui",
+      "interaction",
+      "ruler"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/interface/ruler.svg"
+  },
+  {
+    "enumName": "ARROW_DOWN_SIMPLE",
+    "displayName": "Arrow Down Simple",
+    "category": "Arrows",
+    "tags": [
+      "navigation",
+      "direction",
+      "back",
+      "forward",
+      "up",
+      "down",
+      "expand",
+      "collapse",
+      "arrow",
+      "simple",
+      "arrows"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/arrows/arrow-down-simple.svg"
+  },
+  {
+    "enumName": "ARROW_UP_SIMPLE",
+    "displayName": "Arrow Up Simple",
+    "category": "Arrows",
+    "tags": [
+      "navigation",
+      "direction",
+      "back",
+      "forward",
+      "up",
+      "down",
+      "expand",
+      "collapse",
+      "arrow",
+      "simple",
+      "arrows"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/arrows/arrow-up-simple.svg"
+  },
+  {
+    "enumName": "ARROW_RIGHT_SIMPLE",
+    "displayName": "Arrow Right Simple",
+    "category": "Arrows",
+    "tags": [
+      "navigation",
+      "direction",
+      "back",
+      "forward",
+      "up",
+      "down",
+      "expand",
+      "collapse",
+      "arrow",
+      "right",
+      "simple",
+      "arrows"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/arrows/arrow-right-simple.svg"
+  },
+  {
+    "enumName": "ARROW_LEFT_SIMPLE",
+    "displayName": "Arrow Left Simple",
+    "category": "Arrows",
+    "tags": [
+      "navigation",
+      "direction",
+      "back",
+      "forward",
+      "up",
+      "down",
+      "expand",
+      "collapse",
+      "arrow",
+      "left",
+      "simple",
+      "arrows"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/arrows/arrow-left-simple.svg"
+  },
+  {
+    "enumName": "DRAG_DROP_VERTICAL",
+    "displayName": "Drag Drop Vertical",
+    "category": "Editing",
+    "tags": [
+      "write",
+      "draw",
+      "duplicate",
+      "clipboard",
+      "edit",
+      "drag",
+      "drop",
+      "vertical",
+      "editing"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/editing/drag-drop-vertical.svg"
+  },
+  {
+    "enumName": "ARROW_IOS_DOWNWARD_FILL",
+    "displayName": "Arrow Ios Downward Fill",
+    "category": "Arrows",
+    "tags": [
+      "navigation",
+      "direction",
+      "back",
+      "forward",
+      "up",
+      "down",
+      "expand",
+      "collapse",
+      "arrow",
+      "ios",
+      "downward",
+      "fill",
+      "arrows"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/arrows/arrow-ios-downward-fill.svg"
+  },
+  {
+    "enumName": "COMPUTER",
+    "displayName": "Computer",
+    "category": "Development",
+    "tags": [
+      "code",
+      "programming",
+      "development",
+      "api",
+      "computer"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/development/computer.svg"
+  },
+  {
+    "enumName": "SMART_PHONE_01",
+    "displayName": "Smart Phone 1",
+    "category": "Development",
+    "tags": [
+      "code",
+      "programming",
+      "development",
+      "api",
+      "smart",
+      "phone"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/development/smart-phone-01.svg"
+  },
+  {
+    "enumName": "PLAY_SIMPLE",
+    "displayName": "Play Simple",
+    "category": "Media",
+    "tags": [
+      "audio",
+      "video",
+      "media",
+      "play",
+      "record",
+      "simple"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/media/play-simple.svg"
+  },
+  {
+    "enumName": "CHEVRON_UP",
+    "displayName": "Chevron Up",
+    "category": "Arrows",
+    "tags": [
+      "navigation",
+      "direction",
+      "back",
+      "forward",
+      "up",
+      "down",
+      "expand",
+      "collapse",
+      "chevron",
+      "arrows"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/arrows/chevron-up.svg"
+  },
+  {
+    "enumName": "TEXT_FIELDS_SMALL_CAPS",
+    "displayName": "Text Fields Small Caps",
+    "category": "Editing",
+    "tags": [
+      "write",
+      "draw",
+      "duplicate",
+      "clipboard",
+      "edit",
+      "text",
+      "fields",
+      "small",
+      "caps",
+      "editing"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/editing/text-fields-small-caps.svg"
+  },
+  {
+    "enumName": "LICENSE_ARTICLE",
+    "displayName": "License Article",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "license",
+      "article",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/license-article.svg"
+  },
+  {
+    "enumName": "CALENDAR_MINUS_02",
+    "displayName": "Calendar Minus 2",
+    "category": "Time & Calendar",
+    "tags": [
+      "date",
+      "time",
+      "schedule",
+      "calendar",
+      "clock",
+      "minus",
+      "time & calendar"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/time & calendar/calendar-minus-02.svg"
+  },
+  {
+    "enumName": "LAYOUT_TABLE_02",
+    "displayName": "Layout Table 2",
+    "category": "Layout & Views",
+    "tags": [
+      "view",
+      "display",
+      "board",
+      "grid",
+      "list",
+      "layout",
+      "table",
+      "layout & views"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/layout & views/layout-table-02.svg"
+  },
+  {
+    "enumName": "PERCENT_CIRCLE",
+    "displayName": "Percent Circle",
+    "category": "UI Controls",
+    "tags": [
+      "input",
+      "control",
+      "form",
+      "toggle",
+      "checkbox",
+      "radio",
+      "percent",
+      "circle",
+      "ui controls"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/ui controls/percent-circle.svg"
+  },
+  {
+    "enumName": "PERCENT",
+    "displayName": "Percent",
+    "category": "UI Controls",
+    "tags": [
+      "input",
+      "control",
+      "form",
+      "toggle",
+      "checkbox",
+      "radio",
+      "percent",
+      "ui controls"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/ui controls/percent.svg"
+  },
+  {
+    "enumName": "CAROUSEL_HORIZONTAL",
+    "displayName": "Carousel Horizontal",
+    "category": "Layout & Views",
+    "tags": [
+      "view",
+      "display",
+      "board",
+      "grid",
+      "list",
+      "layout",
+      "carousel",
+      "horizontal",
+      "layout & views"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/layout & views/carousel-horizontal.svg"
+  },
+  {
+    "enumName": "BUBBLE_CHAT_QUESTION",
+    "displayName": "Bubble Chat Question",
+    "category": "Communication",
+    "tags": [
+      "email",
+      "notify",
+      "alert",
+      "inbox",
+      "chat",
+      "message",
+      "bubble",
+      "question",
+      "communication"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/communication/bubble-chat-question.svg"
+  },
+  {
+    "enumName": "BUBBLE_CHAT_USER",
+    "displayName": "Bubble Chat User",
+    "category": "Communication",
+    "tags": [
+      "email",
+      "notify",
+      "alert",
+      "inbox",
+      "chat",
+      "message",
+      "bubble",
+      "user",
+      "communication"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/communication/bubble-chat-user.svg"
+  },
+  {
+    "enumName": "USER_LIST",
+    "displayName": "User List",
+    "category": "Users",
+    "tags": [
+      "people",
+      "profile",
+      "team",
+      "group",
+      "person",
+      "account",
+      "user",
+      "list",
+      "users"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/users/user-list.svg"
+  },
+  {
+    "enumName": "USER_GROUP",
+    "displayName": "User Group",
+    "category": "Users",
+    "tags": [
+      "people",
+      "profile",
+      "team",
+      "group",
+      "person",
+      "account",
+      "user",
+      "users"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/users/user-group.svg"
+  },
+  {
+    "enumName": "USER_ACCOUNT",
+    "displayName": "User Account",
+    "category": "Users",
+    "tags": [
+      "people",
+      "profile",
+      "team",
+      "group",
+      "person",
+      "account",
+      "user",
+      "users"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/users/user-account.svg"
+  },
+  {
+    "enumName": "HOME_START_04",
+    "displayName": "Home Start 4",
+    "category": "Navigation",
+    "tags": [
+      "home",
+      "menu",
+      "navigation",
+      "link",
+      "location",
+      "start"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/navigation/home-start-04.svg"
+  },
+  {
+    "enumName": "MENU_01",
+    "displayName": "Menu 1",
+    "category": "Navigation",
+    "tags": [
+      "home",
+      "menu",
+      "navigation",
+      "link",
+      "location"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/navigation/menu-01.svg"
+  },
+  {
+    "enumName": "MENU_07",
+    "displayName": "Menu 7",
+    "category": "Navigation",
+    "tags": [
+      "home",
+      "menu",
+      "navigation",
+      "link",
+      "location"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/navigation/menu-07.svg"
+  },
+  {
+    "enumName": "CALENDAR_TODAY",
+    "displayName": "Calendar Today",
+    "category": "Time & Calendar",
+    "tags": [
+      "date",
+      "time",
+      "schedule",
+      "calendar",
+      "clock",
+      "today",
+      "time & calendar"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/time & calendar/calendar-today.svg"
+  },
+  {
+    "enumName": "SELECT_HOUR_CLOCK",
+    "displayName": "Select Hour Clock",
+    "category": "Time & Calendar",
+    "tags": [
+      "date",
+      "time",
+      "schedule",
+      "calendar",
+      "clock",
+      "select",
+      "hour",
+      "time & calendar"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/time & calendar/select-hour-clock.svg"
+  },
+  {
+    "enumName": "COUNTER_CLOCK",
+    "displayName": "Counter Clock",
+    "category": "Time & Calendar",
+    "tags": [
+      "date",
+      "time",
+      "schedule",
+      "calendar",
+      "clock",
+      "counter",
+      "time & calendar"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/time & calendar/counter-clock.svg"
+  },
+  {
+    "enumName": "SQUARE_LOCK_01",
+    "displayName": "Square Lock 1",
+    "category": "Security",
+    "tags": [
+      "privacy",
+      "password",
+      "authentication",
+      "security",
+      "square",
+      "lock"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/security/square-lock-01.svg"
+  },
+  {
+    "enumName": "TOGGLE_OFF",
+    "displayName": "Toggle Off",
+    "category": "UI Controls",
+    "tags": [
+      "input",
+      "control",
+      "form",
+      "toggle",
+      "checkbox",
+      "radio",
+      "off",
+      "ui controls"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/ui controls/toggle-off.svg"
+  },
+  {
+    "enumName": "TOGGLE_ON",
+    "displayName": "Toggle On",
+    "category": "UI Controls",
+    "tags": [
+      "input",
+      "control",
+      "form",
+      "toggle",
+      "checkbox",
+      "radio",
+      "on",
+      "ui controls"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/ui controls/toggle-on.svg"
+  },
+  {
+    "enumName": "TEXT_NUMBER_SIGN",
+    "displayName": "Text Number Sign",
+    "category": "UI Controls",
+    "tags": [
+      "input",
+      "control",
+      "form",
+      "toggle",
+      "checkbox",
+      "radio",
+      "text",
+      "number",
+      "sign",
+      "ui controls"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/ui controls/text-number-sign.svg"
+  },
+  {
+    "enumName": "INTERVAL_DATE",
+    "displayName": "Interval Date",
+    "category": "Time & Calendar",
+    "tags": [
+      "date",
+      "time",
+      "schedule",
+      "calendar",
+      "clock",
+      "interval",
+      "time & calendar"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/time & calendar/interval-date.svg"
+  },
+  {
+    "enumName": "LOCATION_SIMPLE_01",
+    "displayName": "Location Simple 1",
+    "category": "Navigation",
+    "tags": [
+      "home",
+      "menu",
+      "navigation",
+      "link",
+      "location",
+      "simple"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/navigation/location-simple-01.svg"
+  },
+  {
+    "enumName": "USER_REQUEST_ACCESS",
+    "displayName": "User Request Access",
+    "category": "Users",
+    "tags": [
+      "people",
+      "profile",
+      "team",
+      "group",
+      "person",
+      "account",
+      "user",
+      "request",
+      "access",
+      "users"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/users/user-request-access.svg"
+  },
+  {
+    "enumName": "FILTER_HORIZONTAL",
+    "displayName": "Filter Horizontal",
+    "category": "Filter & Sort",
+    "tags": [
+      "order",
+      "ascending",
+      "descending",
+      "organize",
+      "filter",
+      "horizontal",
+      "filter & sort"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/filter & sort/filter-horizontal.svg"
+  },
+  {
+    "enumName": "EARTH_PUBLIC",
+    "displayName": "Earth Public",
+    "category": "Navigation",
+    "tags": [
+      "home",
+      "menu",
+      "navigation",
+      "link",
+      "location",
+      "earth",
+      "public"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/navigation/earth-public.svg"
+  },
+  {
+    "enumName": "FILTER_SIMPLE",
+    "displayName": "Filter Simple",
+    "category": "Filter & Sort",
+    "tags": [
+      "order",
+      "ascending",
+      "descending",
+      "organize",
+      "filter",
+      "simple",
+      "filter & sort"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/filter & sort/filter-simple.svg"
+  },
+  {
+    "enumName": "CALCULATE_SIGNS",
+    "displayName": "Calculate Signs",
+    "category": "UI Controls",
+    "tags": [
+      "input",
+      "control",
+      "form",
+      "toggle",
+      "checkbox",
+      "radio",
+      "calculate",
+      "signs",
+      "ui controls"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/ui controls/calculate-signs.svg"
+  },
+  {
+    "enumName": "LINK_HORIZONTAL",
+    "displayName": "Link Horizontal",
+    "category": "Cloud & Transfer",
+    "tags": [
+      "cloud",
+      "download",
+      "upload",
+      "transfer",
+      "sync",
+      "link",
+      "horizontal",
+      "cloud & transfer"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/cloud & transfer/link-horizontal.svg"
+  },
+  {
+    "enumName": "ARROW_UP_DOWN",
+    "displayName": "Arrow Up Down",
+    "category": "Arrows",
+    "tags": [
+      "navigation",
+      "direction",
+      "back",
+      "forward",
+      "up",
+      "down",
+      "expand",
+      "collapse",
+      "arrow",
+      "arrows"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/arrows/arrow-up-down.svg"
+  },
+  {
+    "enumName": "ARROW_UP_02",
+    "displayName": "Arrow Up 2",
+    "category": "Arrows",
+    "tags": [
+      "navigation",
+      "direction",
+      "back",
+      "forward",
+      "up",
+      "down",
+      "expand",
+      "collapse",
+      "arrow",
+      "arrows"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/arrows/arrow-up-02.svg"
+  },
+  {
+    "enumName": "PRINTER",
+    "displayName": "Printer",
+    "category": "Interface",
+    "tags": [
+      "interface",
+      "action",
+      "ui",
+      "interaction",
+      "printer"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/interface/printer.svg"
+  },
+  {
+    "enumName": "PRODUCT_LOADING",
+    "displayName": "Product Loading",
+    "category": "E-Commerce",
+    "tags": [
+      "shop",
+      "buy",
+      "store",
+      "basket",
+      "order",
+      "cart",
+      "barcode",
+      "product",
+      "loading",
+      "e-commerce"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/e-commerce/product-loading.svg"
+  },
+  {
+    "enumName": "DASHBOARD_WEB_01",
+    "displayName": "Dashboard Web 1",
+    "category": "Layout & Views",
+    "tags": [
+      "view",
+      "display",
+      "board",
+      "grid",
+      "list",
+      "layout",
+      "dashboard",
+      "web",
+      "layout & views"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/layout & views/dashboard-web-01.svg"
+  },
+  {
+    "enumName": "CURSOR_IN_WINDOW",
+    "displayName": "Cursor In Window",
+    "category": "Interface",
+    "tags": [
+      "interface",
+      "action",
+      "ui",
+      "interaction",
+      "cursor",
+      "in",
+      "window"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/interface/cursor-in-window.svg"
+  },
+  {
+    "enumName": "FILTER_VERTICAL",
+    "displayName": "Filter Vertical",
+    "category": "Filter & Sort",
+    "tags": [
+      "order",
+      "ascending",
+      "descending",
+      "organize",
+      "filter",
+      "vertical",
+      "filter & sort"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/filter & sort/filter-vertical.svg"
+  },
+  {
+    "enumName": "WHATSAPP",
+    "displayName": "Whatsapp",
+    "category": "Social Media",
+    "tags": [
+      "social",
+      "network",
+      "share",
+      "whatsapp",
+      "social media"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/social media/whatsapp.svg"
+  },
+  {
+    "enumName": "MORE_OPTIONS_VERTICAL",
+    "displayName": "More Options Vertical",
+    "category": "Interface",
+    "tags": [
+      "interface",
+      "action",
+      "ui",
+      "interaction",
+      "more",
+      "options",
+      "vertical"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/interface/more-options-vertical.svg"
+  },
+  {
+    "enumName": "MORE_03",
+    "displayName": "More 3",
+    "category": "Interface",
+    "tags": [
+      "interface",
+      "action",
+      "ui",
+      "interaction",
+      "more"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/interface/more-03.svg"
+  },
+  {
+    "enumName": "FOLDER_01",
+    "displayName": "Folder 1",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "folder",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/folder-01.svg"
+  },
+  {
+    "enumName": "ARROW_DOWN_02",
+    "displayName": "Arrow Down 2",
+    "category": "Arrows",
+    "tags": [
+      "navigation",
+      "direction",
+      "back",
+      "forward",
+      "up",
+      "down",
+      "expand",
+      "collapse",
+      "arrow",
+      "arrows"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/arrows/arrow-down-02.svg"
+  },
+  {
+    "enumName": "DATABASE_SYMBOL",
+    "displayName": "Database Symbol",
+    "category": "Data & Analytics",
+    "tags": [
+      "graph",
+      "metrics",
+      "statistics",
+      "report",
+      "data",
+      "database",
+      "symbol",
+      "data & analytics"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/data & analytics/database-symbol.svg"
+  },
+  {
+    "enumName": "RELOAD_REFRESH",
+    "displayName": "Reload Refresh",
+    "category": "Interface",
+    "tags": [
+      "interface",
+      "action",
+      "ui",
+      "interaction",
+      "reload",
+      "refresh"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/interface/reload-refresh.svg"
+  },
+  {
+    "enumName": "LAYOUT_05",
+    "displayName": "Layout 5",
+    "category": "Layout & Views",
+    "tags": [
+      "view",
+      "display",
+      "board",
+      "grid",
+      "list",
+      "layout",
+      "layout & views"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/layout & views/layout-05.svg"
+  },
+  {
+    "enumName": "LAYOUT_07",
+    "displayName": "Layout 7",
+    "category": "Layout & Views",
+    "tags": [
+      "view",
+      "display",
+      "board",
+      "grid",
+      "list",
+      "layout",
+      "layout & views"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/layout & views/layout-07.svg"
+  },
+  {
+    "enumName": "DOWNLOAD_EXPORT_04",
+    "displayName": "Download Export 4",
+    "category": "Cloud & Transfer",
+    "tags": [
+      "cloud",
+      "download",
+      "upload",
+      "transfer",
+      "sync",
+      "export",
+      "cloud & transfer"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/cloud & transfer/download-export-04.svg"
+  },
+  {
+    "enumName": "UPLOAD",
+    "displayName": "Upload",
+    "category": "Cloud & Transfer",
+    "tags": [
+      "cloud",
+      "download",
+      "upload",
+      "transfer",
+      "sync",
+      "cloud & transfer"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/cloud & transfer/upload.svg"
+  },
+  {
+    "enumName": "REFRESH_CHANGE",
+    "displayName": "Refresh Change",
+    "category": "Interface",
+    "tags": [
+      "interface",
+      "action",
+      "ui",
+      "interaction",
+      "refresh",
+      "change"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/interface/refresh-change.svg"
+  },
+  {
+    "enumName": "PROFILE",
+    "displayName": "Profile",
+    "category": "Users",
+    "tags": [
+      "people",
+      "profile",
+      "team",
+      "group",
+      "person",
+      "account",
+      "users"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/users/profile.svg"
+  },
+  {
+    "enumName": "HAND_BAG_BRIEFCASE",
+    "displayName": "Hand Bag Briefcase",
+    "category": "Business",
+    "tags": [
+      "business",
+      "company",
+      "office",
+      "enterprise",
+      "corporate",
+      "hand",
+      "bag",
+      "briefcase"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/business/hand-bag-briefcase.svg"
+  },
+  {
+    "enumName": "SHOPPING_BASKET_ADD",
+    "displayName": "Shopping Basket Add",
+    "category": "E-Commerce",
+    "tags": [
+      "shop",
+      "buy",
+      "store",
+      "basket",
+      "order",
+      "cart",
+      "barcode",
+      "shopping",
+      "add",
+      "e-commerce"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/e-commerce/shopping-basket-add.svg"
+  },
+  {
+    "enumName": "SHOPPING_BASKET_03",
+    "displayName": "Shopping Basket 3",
+    "category": "E-Commerce",
+    "tags": [
+      "shop",
+      "buy",
+      "store",
+      "basket",
+      "order",
+      "cart",
+      "barcode",
+      "shopping",
+      "e-commerce"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/e-commerce/shopping-basket-03.svg"
+  },
+  {
+    "enumName": "SHARE_ANOTHER_MEANS",
+    "displayName": "Share Another Means",
+    "category": "Editing",
+    "tags": [
+      "write",
+      "draw",
+      "duplicate",
+      "clipboard",
+      "edit",
+      "share",
+      "another",
+      "means",
+      "editing"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/editing/share-another-means.svg"
+  },
+  {
+    "enumName": "CREDIT_CARD_INCLINED",
+    "displayName": "Credit Card Inclined",
+    "category": "Finance",
+    "tags": [
+      "payment",
+      "banking",
+      "currency",
+      "transfer",
+      "withdraw",
+      "money",
+      "credit",
+      "card",
+      "inclined",
+      "finance"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/finance/credit-card-inclined.svg"
+  },
+  {
+    "enumName": "OFFICE",
+    "displayName": "Office",
+    "category": "Business",
+    "tags": [
+      "business",
+      "company",
+      "office",
+      "enterprise",
+      "corporate"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/business/office.svg"
+  },
+  {
+    "enumName": "CREDIT_CARD",
+    "displayName": "Credit Card",
+    "category": "Finance",
+    "tags": [
+      "payment",
+      "banking",
+      "currency",
+      "transfer",
+      "withdraw",
+      "money",
+      "credit",
+      "card",
+      "finance"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/finance/credit-card.svg"
+  },
+  {
+    "enumName": "CORPORATE",
+    "displayName": "Corporate",
+    "category": "Business",
+    "tags": [
+      "business",
+      "company",
+      "office",
+      "enterprise",
+      "corporate"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/business/corporate.svg"
+  },
+  {
+    "enumName": "MAIL",
+    "displayName": "Mail",
+    "category": "Communication",
+    "tags": [
+      "email",
+      "notify",
+      "alert",
+      "inbox",
+      "chat",
+      "message",
+      "mail",
+      "communication"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/communication/mail.svg"
+  },
+  {
+    "enumName": "ADD_USER_02",
+    "displayName": "Add User 2",
+    "category": "Users",
+    "tags": [
+      "people",
+      "profile",
+      "team",
+      "group",
+      "person",
+      "account",
+      "add",
+      "user",
+      "users"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/users/add-user-02.svg"
+  },
+  {
+    "enumName": "DOLLAR_CIRCLE",
+    "displayName": "Dollar Circle",
+    "category": "Finance",
+    "tags": [
+      "payment",
+      "banking",
+      "currency",
+      "transfer",
+      "withdraw",
+      "money",
+      "dollar",
+      "circle",
+      "finance"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/finance/dollar-circle.svg"
+  },
+  {
+    "enumName": "CANCEL_CIRCLE",
+    "displayName": "Cancel Circle",
+    "category": "Status & Feedback",
+    "tags": [
+      "success",
+      "error",
+      "confirm",
+      "validate",
+      "status",
+      "feedback",
+      "cancel",
+      "circle",
+      "status & feedback"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/status & feedback/cancel-circle.svg"
+  },
+  {
+    "enumName": "CANCEL_CIRCLE_HALF_DOT",
+    "displayName": "Cancel Circle Half Dot",
+    "category": "Status & Feedback",
+    "tags": [
+      "success",
+      "error",
+      "confirm",
+      "validate",
+      "status",
+      "feedback",
+      "cancel",
+      "circle",
+      "half",
+      "dot",
+      "status & feedback"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/status & feedback/cancel-circle-half-dot.svg"
+  },
+  {
+    "enumName": "SALE_TAG_02",
+    "displayName": "Sale Tag 2",
+    "category": "E-Commerce",
+    "tags": [
+      "shop",
+      "buy",
+      "store",
+      "basket",
+      "order",
+      "cart",
+      "barcode",
+      "sale",
+      "tag",
+      "e-commerce"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/e-commerce/sale-tag-02.svg"
+  },
+  {
+    "enumName": "SHOPPING_CART_REMOVE",
+    "displayName": "Shopping Cart Remove",
+    "category": "E-Commerce",
+    "tags": [
+      "shop",
+      "buy",
+      "store",
+      "basket",
+      "order",
+      "cart",
+      "barcode",
+      "shopping",
+      "remove",
+      "e-commerce"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/e-commerce/shopping-cart-remove.svg"
+  },
+  {
+    "enumName": "ARROW_BACK",
+    "displayName": "Arrow Back",
+    "category": "Arrows",
+    "tags": [
+      "navigation",
+      "direction",
+      "back",
+      "forward",
+      "up",
+      "down",
+      "expand",
+      "collapse",
+      "arrow",
+      "arrows"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/arrows/arrow-back.svg"
+  },
+  {
+    "enumName": "MAIL_SEND_01",
+    "displayName": "Mail Send 1",
+    "category": "Communication",
+    "tags": [
+      "email",
+      "notify",
+      "alert",
+      "inbox",
+      "chat",
+      "message",
+      "mail",
+      "send",
+      "communication"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/communication/mail-send-01.svg"
+  },
+  {
+    "enumName": "DATABASE",
+    "displayName": "Database",
+    "category": "Data & Analytics",
+    "tags": [
+      "graph",
+      "metrics",
+      "statistics",
+      "report",
+      "data",
+      "database",
+      "data & analytics"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/data & analytics/database.svg"
+  },
+  {
+    "enumName": "TEXT_UNDERLINE",
+    "displayName": "Text Underline",
+    "category": "Editing",
+    "tags": [
+      "write",
+      "draw",
+      "duplicate",
+      "clipboard",
+      "edit",
+      "text",
+      "underline",
+      "editing"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/editing/text-underline.svg"
+  },
+  {
+    "enumName": "ARROW_RELOAD_HORIZONTAL",
+    "displayName": "Arrow Reload Horizontal",
+    "category": "Arrows",
+    "tags": [
+      "navigation",
+      "direction",
+      "back",
+      "forward",
+      "up",
+      "down",
+      "expand",
+      "collapse",
+      "arrow",
+      "reload",
+      "horizontal",
+      "arrows"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/arrows/arrow-reload-horizontal.svg"
+  },
+  {
+    "enumName": "DATABASE_SYNC",
+    "displayName": "Database Sync",
+    "category": "Data & Analytics",
+    "tags": [
+      "graph",
+      "metrics",
+      "statistics",
+      "report",
+      "data",
+      "database",
+      "sync",
+      "data & analytics"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/data & analytics/database-sync.svg"
+  },
+  {
+    "enumName": "EXPAND_FULL_SCREEN",
+    "displayName": "Expand Full Screen",
+    "category": "Interface",
+    "tags": [
+      "interface",
+      "action",
+      "ui",
+      "interaction",
+      "expand",
+      "full",
+      "screen"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/interface/expand-full-screen.svg"
+  },
+  {
+    "enumName": "PLAY_EXECUTE",
+    "displayName": "Play Execute",
+    "category": "Media",
+    "tags": [
+      "audio",
+      "video",
+      "media",
+      "play",
+      "record",
+      "execute"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/media/play-execute.svg"
+  },
+  {
+    "enumName": "SUMMATION",
+    "displayName": "Summation",
+    "category": "Interface",
+    "tags": [
+      "interface",
+      "action",
+      "ui",
+      "interaction",
+      "summation"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/interface/summation.svg"
+  },
+  {
+    "enumName": "TEXT_FORMAT",
+    "displayName": "Text Format",
+    "category": "Editing",
+    "tags": [
+      "write",
+      "draw",
+      "duplicate",
+      "clipboard",
+      "edit",
+      "text",
+      "format",
+      "editing"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/editing/text-format.svg"
+  },
+  {
+    "enumName": "LAYERS",
+    "displayName": "Layers",
+    "category": "Interface",
+    "tags": [
+      "interface",
+      "action",
+      "ui",
+      "interaction",
+      "layers"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/interface/layers.svg"
+  },
+  {
+    "enumName": "SQL",
+    "displayName": "Sql",
+    "category": "Editing",
+    "tags": [
+      "write",
+      "draw",
+      "duplicate",
+      "clipboard",
+      "edit",
+      "sql",
+      "editing"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/editing/sql.svg"
+  },
+  {
+    "enumName": "LOGOUT_02",
+    "displayName": "Logout 2",
+    "category": "Navigation",
+    "tags": [
+      "home",
+      "menu",
+      "navigation",
+      "link",
+      "location",
+      "logout"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/navigation/logout-02.svg"
+  },
+  {
+    "enumName": "AI_INNOVATION_02",
+    "displayName": "Ai Innovation 2",
+    "category": "AI",
+    "tags": [
+      "artificial intelligence",
+      "machine learning",
+      "generative",
+      "smart",
+      "auto",
+      "ai",
+      "innovation"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/ai/ai-innovation-02.svg"
+  },
+  {
+    "enumName": "SHOPPING_CART_02",
+    "displayName": "Shopping Cart 2",
+    "category": "E-Commerce",
+    "tags": [
+      "shop",
+      "buy",
+      "store",
+      "basket",
+      "order",
+      "cart",
+      "barcode",
+      "shopping",
+      "e-commerce"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/e-commerce/shopping-cart-02.svg"
+  },
+  {
+    "enumName": "XML_FILE_01",
+    "displayName": "Xml File 1",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "xml",
+      "file",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/xml-file-01.svg"
+  },
+  {
+    "enumName": "INVOICE_01",
+    "displayName": "Invoice 1",
+    "category": "Finance",
+    "tags": [
+      "payment",
+      "banking",
+      "currency",
+      "transfer",
+      "withdraw",
+      "money",
+      "invoice",
+      "finance"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/finance/invoice-01.svg"
+  },
+  {
+    "enumName": "INVOICE_02",
+    "displayName": "Invoice 2",
+    "category": "Finance",
+    "tags": [
+      "payment",
+      "banking",
+      "currency",
+      "transfer",
+      "withdraw",
+      "money",
+      "invoice",
+      "finance"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/finance/invoice-02.svg"
+  },
+  {
+    "enumName": "INVOICE",
+    "displayName": "Invoice",
+    "category": "Finance",
+    "tags": [
+      "payment",
+      "banking",
+      "currency",
+      "transfer",
+      "withdraw",
+      "money",
+      "invoice",
+      "finance"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/finance/invoice.svg"
+  },
+  {
+    "enumName": "USER",
+    "displayName": "User",
+    "category": "Users",
+    "tags": [
+      "people",
+      "profile",
+      "team",
+      "group",
+      "person",
+      "account",
+      "user",
+      "users"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/users/user.svg"
+  },
+  {
+    "enumName": "USER_REMOVE_01",
+    "displayName": "User Remove 1",
+    "category": "Users",
+    "tags": [
+      "people",
+      "profile",
+      "team",
+      "group",
+      "person",
+      "account",
+      "user",
+      "remove",
+      "users"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/users/user-remove-01.svg"
+  },
+  {
+    "enumName": "TRUCK_DELIVERY",
+    "displayName": "Truck Delivery",
+    "category": "Logistics",
+    "tags": [
+      "transport",
+      "tracking",
+      "shipping",
+      "delivery",
+      "package",
+      "truck",
+      "logistics"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/logistics/truck-delivery.svg"
+  },
+  {
+    "enumName": "OPEN_IN_NEW_TAB",
+    "displayName": "Open In New Tab",
+    "category": "Navigation",
+    "tags": [
+      "home",
+      "menu",
+      "navigation",
+      "link",
+      "location",
+      "open",
+      "in",
+      "new",
+      "tab"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/navigation/open-in-new-tab.svg"
+  },
+  {
+    "enumName": "NUMBER_ONE_OUTLINE",
+    "displayName": "Number One Outline",
+    "category": "UI Controls",
+    "tags": [
+      "input",
+      "control",
+      "form",
+      "toggle",
+      "checkbox",
+      "radio",
+      "number",
+      "one",
+      "outline",
+      "ui controls"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/ui controls/number-one-outline.svg"
+  },
+  {
+    "enumName": "DECIMAL_INCREASE",
+    "displayName": "Decimal Increase",
+    "category": "UI Controls",
+    "tags": [
+      "input",
+      "control",
+      "form",
+      "toggle",
+      "checkbox",
+      "radio",
+      "decimal",
+      "increase",
+      "ui controls"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/ui controls/decimal-increase.svg"
+  },
+  {
+    "enumName": "FILE",
+    "displayName": "File",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "file",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/file.svg"
+  },
+  {
+    "enumName": "DATE_TIME",
+    "displayName": "Date Time",
+    "category": "Time & Calendar",
+    "tags": [
+      "date",
+      "time",
+      "schedule",
+      "calendar",
+      "clock",
+      "time & calendar"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/time & calendar/date-time.svg"
+  },
+  {
+    "enumName": "TEXT",
+    "displayName": "Text",
+    "category": "Editing",
+    "tags": [
+      "write",
+      "draw",
+      "duplicate",
+      "clipboard",
+      "edit",
+      "text",
+      "editing"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/editing/text.svg"
+  },
+  {
+    "enumName": "TEXT_CREATION",
+    "displayName": "Text Creation",
+    "category": "Editing",
+    "tags": [
+      "write",
+      "draw",
+      "duplicate",
+      "clipboard",
+      "edit",
+      "text",
+      "creation",
+      "editing"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/editing/text-creation.svg"
+  },
+  {
+    "enumName": "RADIO_BUTTON_CHECKED",
+    "displayName": "Radio Button Checked",
+    "category": "UI Controls",
+    "tags": [
+      "input",
+      "control",
+      "form",
+      "toggle",
+      "checkbox",
+      "radio",
+      "button",
+      "checked",
+      "ui controls"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/ui controls/radio-button-checked.svg"
+  },
+  {
+    "enumName": "CHECK_BOX",
+    "displayName": "Check Box",
+    "category": "UI Controls",
+    "tags": [
+      "input",
+      "control",
+      "form",
+      "toggle",
+      "checkbox",
+      "radio",
+      "check",
+      "box",
+      "ui controls"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/ui controls/check-box.svg"
+  },
+  {
+    "enumName": "DECIMAL",
+    "displayName": "Decimal",
+    "category": "UI Controls",
+    "tags": [
+      "input",
+      "control",
+      "form",
+      "toggle",
+      "checkbox",
+      "radio",
+      "decimal",
+      "ui controls"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/ui controls/decimal.svg"
+  },
+  {
+    "enumName": "CALENDAR_CLOCK",
+    "displayName": "Calendar Clock",
+    "category": "Time & Calendar",
+    "tags": [
+      "date",
+      "time",
+      "schedule",
+      "calendar",
+      "clock",
+      "time & calendar"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/time & calendar/calendar-clock.svg"
+  },
+  {
+    "enumName": "INTEGER_NUMBER",
+    "displayName": "Integer Number",
+    "category": "UI Controls",
+    "tags": [
+      "input",
+      "control",
+      "form",
+      "toggle",
+      "checkbox",
+      "radio",
+      "integer",
+      "number",
+      "ui controls"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/ui controls/integer-number.svg"
+  },
+  {
+    "enumName": "LOW_PRIORITY",
+    "displayName": "Low Priority",
+    "category": "UI Controls",
+    "tags": [
+      "input",
+      "control",
+      "form",
+      "toggle",
+      "checkbox",
+      "radio",
+      "low",
+      "priority",
+      "ui controls"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/ui controls/low-priority.svg"
+  },
+  {
+    "enumName": "FILTER_LIST",
+    "displayName": "Filter List",
+    "category": "Filter & Sort",
+    "tags": [
+      "order",
+      "ascending",
+      "descending",
+      "organize",
+      "filter",
+      "list",
+      "filter & sort"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/filter & sort/filter-list.svg"
+  },
+  {
+    "enumName": "CURRENCY_EXCHANGE",
+    "displayName": "Currency Exchange",
+    "category": "Finance",
+    "tags": [
+      "payment",
+      "banking",
+      "currency",
+      "transfer",
+      "withdraw",
+      "money",
+      "exchange",
+      "finance"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/finance/currency-exchange.svg"
+  },
+  {
+    "enumName": "CURRENCY_EXCHANGE_03",
+    "displayName": "Currency Exchange 3",
+    "category": "Finance",
+    "tags": [
+      "payment",
+      "banking",
+      "currency",
+      "transfer",
+      "withdraw",
+      "money",
+      "exchange",
+      "finance"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/finance/currency-exchange-03.svg"
+  },
+  {
+    "enumName": "FOLDER_OPEN",
+    "displayName": "Folder Open",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "folder",
+      "open",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/folder-open.svg"
+  },
+  {
+    "enumName": "ARROW_GO_BACK",
+    "displayName": "Arrow Go Back",
+    "category": "Arrows",
+    "tags": [
+      "navigation",
+      "direction",
+      "back",
+      "forward",
+      "up",
+      "down",
+      "expand",
+      "collapse",
+      "arrow",
+      "go",
+      "arrows"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/arrows/arrow-go-back.svg"
+  },
+  {
+    "enumName": "ARROW_GO_FORWARD",
+    "displayName": "Arrow Go Forward",
+    "category": "Arrows",
+    "tags": [
+      "navigation",
+      "direction",
+      "back",
+      "forward",
+      "up",
+      "down",
+      "expand",
+      "collapse",
+      "arrow",
+      "go",
+      "arrows"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/arrows/arrow-go-forward.svg"
+  },
+  {
+    "enumName": "VIEW_COLUMN",
+    "displayName": "View Column",
+    "category": "Layout & Views",
+    "tags": [
+      "view",
+      "display",
+      "board",
+      "grid",
+      "list",
+      "layout",
+      "column",
+      "layout & views"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/layout & views/view-column.svg"
+  },
+  {
+    "enumName": "COMPARE_ARROWS",
+    "displayName": "Compare Arrows",
+    "category": "Arrows",
+    "tags": [
+      "navigation",
+      "direction",
+      "back",
+      "forward",
+      "up",
+      "down",
+      "expand",
+      "collapse",
+      "compare",
+      "arrows"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/arrows/compare-arrows.svg"
+  },
+  {
+    "enumName": "DOT",
+    "displayName": "Dot",
+    "category": "UI Controls",
+    "tags": [
+      "input",
+      "control",
+      "form",
+      "toggle",
+      "checkbox",
+      "radio",
+      "dot",
+      "ui controls"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/ui controls/dot.svg"
+  },
+  {
+    "enumName": "HTML",
+    "displayName": "Html",
+    "category": "Editing",
+    "tags": [
+      "write",
+      "draw",
+      "duplicate",
+      "clipboard",
+      "edit",
+      "html",
+      "editing"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/editing/html.svg"
+  },
+  {
+    "enumName": "DROPDOWN",
+    "displayName": "Dropdown",
+    "category": "UI Controls",
+    "tags": [
+      "input",
+      "control",
+      "form",
+      "toggle",
+      "checkbox",
+      "radio",
+      "dropdown",
+      "ui controls"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/ui controls/dropdown.svg"
+  },
+  {
+    "enumName": "ZOOM_IN",
+    "displayName": "Zoom In",
+    "category": "Search",
+    "tags": [
+      "find",
+      "lookup",
+      "magnifying glass",
+      "search",
+      "zoom",
+      "in"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/search/zoom-in.svg"
+  },
+  {
+    "enumName": "ZOOM_OUT",
+    "displayName": "Zoom Out",
+    "category": "Search",
+    "tags": [
+      "find",
+      "lookup",
+      "magnifying glass",
+      "search",
+      "zoom",
+      "out"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/search/zoom-out.svg"
+  },
+  {
+    "enumName": "PAUSE",
+    "displayName": "Pause",
+    "category": "Media",
+    "tags": [
+      "audio",
+      "video",
+      "media",
+      "play",
+      "record",
+      "pause"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/media/pause.svg"
+  },
+  {
+    "enumName": "MAXIMIZE_SCREEN",
+    "displayName": "Maximize Screen",
+    "category": "Interface",
+    "tags": [
+      "interface",
+      "action",
+      "ui",
+      "interaction",
+      "maximize",
+      "screen"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/interface/maximize-screen.svg"
+  },
+  {
+    "enumName": "MINIMIZE_SCREEN",
+    "displayName": "Minimize Screen",
+    "category": "Interface",
+    "tags": [
+      "interface",
+      "action",
+      "ui",
+      "interaction",
+      "minimize",
+      "screen"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/interface/minimize-screen.svg"
+  },
+  {
+    "enumName": "JSON",
+    "displayName": "Json",
+    "category": "Editing",
+    "tags": [
+      "write",
+      "draw",
+      "duplicate",
+      "clipboard",
+      "edit",
+      "json",
+      "editing"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/editing/json.svg"
+  },
+  {
+    "enumName": "SOURCE_CODE",
+    "displayName": "Source Code",
+    "category": "Editing",
+    "tags": [
+      "write",
+      "draw",
+      "duplicate",
+      "clipboard",
+      "edit",
+      "source",
+      "code",
+      "editing"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/editing/source-code.svg"
+  },
+  {
+    "enumName": "BOX",
+    "displayName": "Box",
+    "category": "Logistics",
+    "tags": [
+      "transport",
+      "tracking",
+      "shipping",
+      "delivery",
+      "package",
+      "box",
+      "logistics"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/logistics/box.svg"
+  },
+  {
+    "enumName": "GOOGLE",
+    "displayName": "Google",
+    "category": "Social Media",
+    "tags": [
+      "social",
+      "network",
+      "share",
+      "google",
+      "social media"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/social media/google.svg"
+  },
+  {
+    "enumName": "DATABASE_BACKUP",
+    "displayName": "Database Backup",
+    "category": "Data & Analytics",
+    "tags": [
+      "graph",
+      "metrics",
+      "statistics",
+      "report",
+      "data",
+      "database",
+      "backup",
+      "data & analytics"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/data & analytics/database-backup.svg"
+  },
+  {
+    "enumName": "PROPERTY_DELETE",
+    "displayName": "Property Delete",
+    "category": "Add & Remove",
+    "tags": [
+      "create",
+      "remove",
+      "cancel",
+      "clear",
+      "add",
+      "property",
+      "delete",
+      "add & remove"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/add & remove/property-delete.svg"
+  },
+  {
+    "enumName": "DELIVERY_BOX",
+    "displayName": "Delivery Box",
+    "category": "Logistics",
+    "tags": [
+      "transport",
+      "tracking",
+      "shipping",
+      "delivery",
+      "package",
+      "box",
+      "logistics"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/logistics/delivery-box.svg"
+  },
+  {
+    "enumName": "DELIVERY_RETURN_01",
+    "displayName": "Delivery Return 1",
+    "category": "Logistics",
+    "tags": [
+      "transport",
+      "tracking",
+      "shipping",
+      "delivery",
+      "package",
+      "return",
+      "logistics"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/logistics/delivery-return-01.svg"
+  },
+  {
+    "enumName": "DOCUMENT_CODE",
+    "displayName": "Document Code",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "code",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/document-code.svg"
+  },
+  {
+    "enumName": "ANALYTICS_UP",
+    "displayName": "Analytics Up",
+    "category": "Data & Analytics",
+    "tags": [
+      "graph",
+      "metrics",
+      "statistics",
+      "report",
+      "data",
+      "database",
+      "analytics",
+      "up",
+      "data & analytics"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/data & analytics/analytics-up.svg"
+  },
+  {
+    "enumName": "ANALYTICS_02_STROKE_ROUNDED",
+    "displayName": "Analytics 2 Stroke Rounded",
+    "category": "Data & Analytics",
+    "tags": [
+      "graph",
+      "metrics",
+      "statistics",
+      "report",
+      "data",
+      "database",
+      "analytics",
+      "stroke",
+      "rounded",
+      "data & analytics"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/data & analytics/analytics-02-stroke-rounded.svg"
+  },
+  {
+    "enumName": "ARROW_TURN_BACKWARD",
+    "displayName": "Arrow Turn Backward",
+    "category": "Arrows",
+    "tags": [
+      "navigation",
+      "direction",
+      "back",
+      "forward",
+      "up",
+      "down",
+      "expand",
+      "collapse",
+      "arrow",
+      "turn",
+      "backward",
+      "arrows"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/arrows/arrow-turn-backward.svg"
+  },
+  {
+    "enumName": "ARROW_TURN_FORWARD",
+    "displayName": "Arrow Turn Forward",
+    "category": "Arrows",
+    "tags": [
+      "navigation",
+      "direction",
+      "back",
+      "forward",
+      "up",
+      "down",
+      "expand",
+      "collapse",
+      "arrow",
+      "turn",
+      "arrows"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/arrows/arrow-turn-forward.svg"
+  },
+  {
+    "enumName": "COLUMN_INSERT",
+    "displayName": "Column Insert",
+    "category": "Layout & Views",
+    "tags": [
+      "view",
+      "display",
+      "board",
+      "grid",
+      "list",
+      "layout",
+      "column",
+      "insert",
+      "layout & views"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/layout & views/column-insert.svg"
+  },
+  {
+    "enumName": "INSERT_ROW",
+    "displayName": "Insert Row",
+    "category": "Layout & Views",
+    "tags": [
+      "view",
+      "display",
+      "board",
+      "grid",
+      "list",
+      "layout",
+      "insert",
+      "row",
+      "layout & views"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/layout & views/insert-row.svg"
+  },
+  {
+    "enumName": "USER_SWITCH",
+    "displayName": "User Switch",
+    "category": "Users",
+    "tags": [
+      "people",
+      "profile",
+      "team",
+      "group",
+      "person",
+      "account",
+      "user",
+      "switch",
+      "users"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/users/user-switch.svg"
+  },
+  {
+    "enumName": "ARTIFICIAL_INTELLIGENCE_04",
+    "displayName": "Artificial Intelligence 4",
+    "category": "AI",
+    "tags": [
+      "artificial intelligence",
+      "machine learning",
+      "generative",
+      "smart",
+      "auto",
+      "artificial",
+      "intelligence",
+      "ai"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/ai/artificial-intelligence-04.svg"
+  },
+  {
+    "enumName": "ARTIFICIAL_INTELLIGENCE_08",
+    "displayName": "Artificial Intelligence 8",
+    "category": "AI",
+    "tags": [
+      "artificial intelligence",
+      "machine learning",
+      "generative",
+      "smart",
+      "auto",
+      "artificial",
+      "intelligence",
+      "ai"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/ai/artificial-intelligence-08.svg"
+  },
+  {
+    "enumName": "FLOW",
+    "displayName": "Flow",
+    "category": "Development",
+    "tags": [
+      "code",
+      "programming",
+      "development",
+      "api",
+      "flow"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/development/flow.svg"
+  },
+  {
+    "enumName": "FLOW_SQUARE",
+    "displayName": "Flow Square",
+    "category": "Development",
+    "tags": [
+      "code",
+      "programming",
+      "development",
+      "api",
+      "flow",
+      "square"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/development/flow-square.svg"
+  },
+  {
+    "enumName": "FLOW_CHART_02",
+    "displayName": "Flow Chart 2",
+    "category": "Development",
+    "tags": [
+      "code",
+      "programming",
+      "development",
+      "api",
+      "flow",
+      "chart"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/development/flow-chart-02.svg"
+  },
+  {
+    "enumName": "HOT_PRICE",
+    "displayName": "Hot Price",
+    "category": "E-Commerce",
+    "tags": [
+      "shop",
+      "buy",
+      "store",
+      "basket",
+      "order",
+      "cart",
+      "barcode",
+      "hot",
+      "price",
+      "e-commerce"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/e-commerce/hot-price.svg"
+  },
+  {
+    "enumName": "TROLLEY",
+    "displayName": "Trolley",
+    "category": "E-Commerce",
+    "tags": [
+      "shop",
+      "buy",
+      "store",
+      "basket",
+      "order",
+      "cart",
+      "barcode",
+      "trolley",
+      "e-commerce"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/e-commerce/trolley.svg"
+  },
+  {
+    "enumName": "STAR",
+    "displayName": "Star",
+    "category": "Interface",
+    "tags": [
+      "interface",
+      "action",
+      "ui",
+      "interaction",
+      "star"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/interface/star.svg"
+  },
+  {
+    "enumName": "STAR_02",
+    "displayName": "Star 2",
+    "category": "Interface",
+    "tags": [
+      "interface",
+      "action",
+      "ui",
+      "interaction",
+      "star"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/interface/star-02.svg"
+  },
+  {
+    "enumName": "BAR_CODE",
+    "displayName": "Bar Code",
+    "category": "E-Commerce",
+    "tags": [
+      "shop",
+      "buy",
+      "store",
+      "basket",
+      "order",
+      "cart",
+      "barcode",
+      "bar",
+      "code",
+      "e-commerce"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/e-commerce/bar-code.svg"
+  },
+  {
+    "enumName": "BAR_CODE_01",
+    "displayName": "Bar Code 1",
+    "category": "E-Commerce",
+    "tags": [
+      "shop",
+      "buy",
+      "store",
+      "basket",
+      "order",
+      "cart",
+      "barcode",
+      "bar",
+      "code",
+      "e-commerce"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/e-commerce/bar-code-01.svg"
+  },
+  {
+    "enumName": "PIX",
+    "displayName": "Pix",
+    "category": "E-Commerce",
+    "tags": [
+      "shop",
+      "buy",
+      "store",
+      "basket",
+      "order",
+      "cart",
+      "barcode",
+      "pix",
+      "e-commerce"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/e-commerce/pix.svg"
+  },
+  {
+    "enumName": "TRADE_UP",
+    "displayName": "Trade Up",
+    "category": "Finance",
+    "tags": [
+      "payment",
+      "banking",
+      "currency",
+      "transfer",
+      "withdraw",
+      "money",
+      "trade",
+      "up",
+      "finance"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/finance/trade-up.svg"
+  },
+  {
+    "enumName": "TRADE_DOWN",
+    "displayName": "Trade Down",
+    "category": "Finance",
+    "tags": [
+      "payment",
+      "banking",
+      "currency",
+      "transfer",
+      "withdraw",
+      "money",
+      "trade",
+      "down",
+      "finance"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/finance/trade-down.svg"
+  },
+  {
+    "enumName": "HOURGLASS",
+    "displayName": "Hourglass",
+    "category": "Time & Calendar",
+    "tags": [
+      "date",
+      "time",
+      "schedule",
+      "calendar",
+      "clock",
+      "hourglass",
+      "time & calendar"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/time & calendar/hourglass.svg"
+  },
+  {
+    "enumName": "USER_SQUARE",
+    "displayName": "User Square",
+    "category": "Users",
+    "tags": [
+      "people",
+      "profile",
+      "team",
+      "group",
+      "person",
+      "account",
+      "user",
+      "square",
+      "users"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/users/user-square.svg"
+  },
+  {
+    "enumName": "ALIGN_BOX_MIDDLE_CENTER",
+    "displayName": "Align Box Middle Center",
+    "category": "Layout & Views",
+    "tags": [
+      "view",
+      "display",
+      "board",
+      "grid",
+      "list",
+      "layout",
+      "align",
+      "box",
+      "middle",
+      "center",
+      "layout & views"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/layout & views/align-box-middle-center.svg"
+  },
+  {
+    "enumName": "ALIGN_BOX_MIDDLE_LEFT",
+    "displayName": "Align Box Middle Left",
+    "category": "Layout & Views",
+    "tags": [
+      "view",
+      "display",
+      "board",
+      "grid",
+      "list",
+      "layout",
+      "align",
+      "box",
+      "middle",
+      "left",
+      "layout & views"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/layout & views/align-box-middle-left.svg"
+  },
+  {
+    "enumName": "WHATSAPP_ICON",
+    "displayName": "Whatsapp Icon",
+    "category": "Social Media",
+    "tags": [
+      "social",
+      "network",
+      "share",
+      "whatsapp",
+      "icon",
+      "social media"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/social media/whatsapp-icon.svg"
+  },
+  {
+    "enumName": "PDF_ICON",
+    "displayName": "Pdf Icon",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "pdf",
+      "icon",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/pdf-icon.svg"
+  },
+  {
+    "enumName": "FACTORY_02",
+    "displayName": "Factory 2",
+    "category": "Business",
+    "tags": [
+      "business",
+      "company",
+      "office",
+      "enterprise",
+      "corporate",
+      "factory"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/business/factory-02.svg"
+  },
+  {
+    "enumName": "DISTRIBUTION",
+    "displayName": "Distribution",
+    "category": "Business",
+    "tags": [
+      "business",
+      "company",
+      "office",
+      "enterprise",
+      "corporate",
+      "distribution"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/business/distribution.svg"
+  },
+  {
+    "enumName": "MORE",
+    "displayName": "More",
+    "category": "Interface",
+    "tags": [
+      "interface",
+      "action",
+      "ui",
+      "interaction",
+      "more"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/interface/more.svg"
+  },
+  {
+    "enumName": "BONE",
+    "displayName": "Bone",
+    "category": "Product Categories",
+    "tags": [
+      "product category",
+      "industry",
+      "department",
+      "bone",
+      "product categories"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/product categories/bone.svg"
+  },
+  {
+    "enumName": "BLENDER",
+    "displayName": "Blender",
+    "category": "Product Categories",
+    "tags": [
+      "product category",
+      "industry",
+      "department",
+      "blender",
+      "product categories"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/product categories/blender.svg"
+  },
+  {
+    "enumName": "VEGETARIAN_FOOD",
+    "displayName": "Vegetarian Food",
+    "category": "Product Categories",
+    "tags": [
+      "product category",
+      "industry",
+      "department",
+      "vegetarian",
+      "food",
+      "product categories"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/product categories/vegetarian-food.svg"
+  },
+  {
+    "enumName": "AUTOMOTIVE_BATTERY_01",
+    "displayName": "Automotive Battery 1",
+    "category": "Product Categories",
+    "tags": [
+      "product category",
+      "industry",
+      "department",
+      "automotive",
+      "battery",
+      "product categories"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/product categories/automotive-battery-01.svg"
+  },
+  {
+    "enumName": "LAPTOP",
+    "displayName": "Laptop",
+    "category": "Product Categories",
+    "tags": [
+      "product category",
+      "industry",
+      "department",
+      "laptop",
+      "product categories"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/product categories/laptop.svg"
+  },
+  {
+    "enumName": "NECKLACE",
+    "displayName": "Necklace",
+    "category": "Product Categories",
+    "tags": [
+      "product category",
+      "industry",
+      "department",
+      "necklace",
+      "product categories"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/product categories/necklace.svg"
+  },
+  {
+    "enumName": "VYNIL_02",
+    "displayName": "Vynil 2",
+    "category": "Product Categories",
+    "tags": [
+      "product category",
+      "industry",
+      "department",
+      "vynil",
+      "product categories"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/product categories/vynil-02.svg"
+  },
+  {
+    "enumName": "GAMEBOY",
+    "displayName": "Gameboy",
+    "category": "Product Categories",
+    "tags": [
+      "product category",
+      "industry",
+      "department",
+      "gameboy",
+      "product categories"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/product categories/gameboy.svg"
+  },
+  {
+    "enumName": "BLUSH_BRUSH_01",
+    "displayName": "Blush Brush 1",
+    "category": "Product Categories",
+    "tags": [
+      "product category",
+      "industry",
+      "department",
+      "blush",
+      "brush",
+      "product categories"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/product categories/blush-brush-01.svg"
+  },
+  {
+    "enumName": "RUNNING_SHOES",
+    "displayName": "Running Shoes",
+    "category": "Product Categories",
+    "tags": [
+      "product category",
+      "industry",
+      "department",
+      "running",
+      "shoes",
+      "product categories"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/product categories/running-shoes.svg"
+  },
+  {
+    "enumName": "WRENCH_01",
+    "displayName": "Wrench 1",
+    "category": "Settings & Tools",
+    "tags": [
+      "config",
+      "preferences",
+      "gear",
+      "options",
+      "tools",
+      "wrench",
+      "settings & tools"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/settings & tools/wrench-01.svg"
+  },
+  {
+    "enumName": "BABY_BOY_DRESS",
+    "displayName": "Baby Boy Dress",
+    "category": "Product Categories",
+    "tags": [
+      "product category",
+      "industry",
+      "department",
+      "baby",
+      "boy",
+      "dress",
+      "product categories"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/product categories/baby-boy-dress.svg"
+  },
+  {
+    "enumName": "MEDICINE_02",
+    "displayName": "Medicine 2",
+    "category": "Product Categories",
+    "tags": [
+      "product category",
+      "industry",
+      "department",
+      "medicine",
+      "product categories"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/product categories/medicine-02.svg"
+  },
+  {
+    "enumName": "CRANE",
+    "displayName": "Crane",
+    "category": "Product Categories",
+    "tags": [
+      "product category",
+      "industry",
+      "department",
+      "crane",
+      "product categories"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/product categories/crane.svg"
+  },
+  {
+    "enumName": "WARDROBE_04",
+    "displayName": "Wardrobe 4",
+    "category": "Product Categories",
+    "tags": [
+      "product category",
+      "industry",
+      "department",
+      "wardrobe",
+      "product categories"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/product categories/wardrobe-04.svg"
+  },
+  {
+    "enumName": "PERFUME",
+    "displayName": "Perfume",
+    "category": "Product Categories",
+    "tags": [
+      "product category",
+      "industry",
+      "department",
+      "perfume",
+      "product categories"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/product categories/perfume.svg"
+  },
+  {
+    "enumName": "LAMP_04",
+    "displayName": "Lamp 4",
+    "category": "Product Categories",
+    "tags": [
+      "product category",
+      "industry",
+      "department",
+      "lamp",
+      "product categories"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/product categories/lamp-04.svg"
+  },
+  {
+    "enumName": "STATIONERY",
+    "displayName": "Stationery",
+    "category": "Product Categories",
+    "tags": [
+      "product category",
+      "industry",
+      "department",
+      "stationery",
+      "product categories"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/product categories/stationery.svg"
+  },
+  {
+    "enumName": "SLIDERS_HORIZONTAL",
+    "displayName": "Sliders Horizontal",
+    "category": "Settings & Tools",
+    "tags": [
+      "config",
+      "preferences",
+      "gear",
+      "options",
+      "tools",
+      "sliders",
+      "horizontal",
+      "settings & tools"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/settings & tools/sliders-horizontal.svg"
+  },
+  {
+    "enumName": "SHIPPING_LOADING",
+    "displayName": "Shipping Loading",
+    "category": "Logistics",
+    "tags": [
+      "transport",
+      "tracking",
+      "shipping",
+      "delivery",
+      "package",
+      "loading",
+      "logistics"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/logistics/shipping-loading.svg"
+  },
+  {
+    "enumName": "LOCATION_05",
+    "displayName": "Location 5",
+    "category": "Navigation",
+    "tags": [
+      "home",
+      "menu",
+      "navigation",
+      "link",
+      "location"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/navigation/location-05.svg"
+  },
+  {
+    "enumName": "ARROW_HORIZONTAL",
+    "displayName": "Arrow Horizontal",
+    "category": "Arrows",
+    "tags": [
+      "navigation",
+      "direction",
+      "back",
+      "forward",
+      "up",
+      "down",
+      "expand",
+      "collapse",
+      "arrow",
+      "horizontal",
+      "arrows"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/arrows/arrow-horizontal.svg"
+  },
+  {
+    "enumName": "ARROW_RIGHT",
+    "displayName": "Arrow Right",
+    "category": "Arrows",
+    "tags": [
+      "navigation",
+      "direction",
+      "back",
+      "forward",
+      "up",
+      "down",
+      "expand",
+      "collapse",
+      "arrow",
+      "right",
+      "arrows"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/arrows/arrow-right.svg"
+  },
+  {
+    "enumName": "DISCOUNT_TAG_01",
+    "displayName": "Discount Tag 1",
+    "category": "E-Commerce",
+    "tags": [
+      "shop",
+      "buy",
+      "store",
+      "basket",
+      "order",
+      "cart",
+      "barcode",
+      "discount",
+      "tag",
+      "e-commerce"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/e-commerce/discount-tag-01.svg"
+  },
+  {
+    "enumName": "CIRCLE",
+    "displayName": "Circle",
+    "category": "UI Controls",
+    "tags": [
+      "input",
+      "control",
+      "form",
+      "toggle",
+      "checkbox",
+      "radio",
+      "circle",
+      "ui controls"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/ui controls/circle.svg"
+  },
+  {
+    "enumName": "PREFERENCE_HORIZONTAL",
+    "displayName": "Preference Horizontal",
+    "category": "Filter & Sort",
+    "tags": [
+      "order",
+      "ascending",
+      "descending",
+      "organize",
+      "filter",
+      "preference",
+      "horizontal",
+      "filter & sort"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/filter & sort/preference-horizontal.svg"
+  },
+  {
+    "enumName": "FAVOURITE",
+    "displayName": "Favourite",
+    "category": "Interface",
+    "tags": [
+      "interface",
+      "action",
+      "ui",
+      "interaction",
+      "favourite"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/interface/favourite.svg"
+  },
+  {
+    "enumName": "TICKET_BAR_CODE",
+    "displayName": "Ticket Bar Code",
+    "category": "E-Commerce",
+    "tags": [
+      "shop",
+      "buy",
+      "store",
+      "basket",
+      "order",
+      "cart",
+      "barcode",
+      "ticket",
+      "bar",
+      "code",
+      "e-commerce"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/e-commerce/ticket-bar-code.svg"
+  },
+  {
+    "enumName": "FAVOURITE_ROUNDED",
+    "displayName": "Favourite Rounded",
+    "category": "Interface",
+    "tags": [
+      "interface",
+      "action",
+      "ui",
+      "interaction",
+      "favourite",
+      "rounded"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/interface/favourite-rounded.svg"
+  },
+  {
+    "enumName": "BANNER",
+    "displayName": "Banner",
+    "category": "Interface",
+    "tags": [
+      "interface",
+      "action",
+      "ui",
+      "interaction",
+      "banner"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/interface/banner.svg"
+  },
+  {
+    "enumName": "MINI_BANNER",
+    "displayName": "Mini Banner",
+    "category": "Interface",
+    "tags": [
+      "interface",
+      "action",
+      "ui",
+      "interaction",
+      "mini",
+      "banner"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/interface/mini-banner.svg"
+  },
+  {
+    "enumName": "PRODUCTS",
+    "displayName": "Products",
+    "category": "E-Commerce",
+    "tags": [
+      "shop",
+      "buy",
+      "store",
+      "basket",
+      "order",
+      "cart",
+      "barcode",
+      "products",
+      "e-commerce"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/e-commerce/products.svg"
+  },
+  {
+    "enumName": "ORDERS",
+    "displayName": "Orders",
+    "category": "E-Commerce",
+    "tags": [
+      "shop",
+      "buy",
+      "store",
+      "basket",
+      "order",
+      "cart",
+      "barcode",
+      "orders",
+      "e-commerce"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/e-commerce/orders.svg"
+  },
+  {
+    "enumName": "CARDS",
+    "displayName": "Cards",
+    "category": "Finance",
+    "tags": [
+      "payment",
+      "banking",
+      "currency",
+      "transfer",
+      "withdraw",
+      "money",
+      "cards",
+      "finance"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/finance/cards.svg"
+  },
+  {
+    "enumName": "PASSPORT_EXPIRED",
+    "displayName": "Passport Expired",
+    "category": "Status & Feedback",
+    "tags": [
+      "success",
+      "error",
+      "confirm",
+      "validate",
+      "status",
+      "feedback",
+      "passport",
+      "expired",
+      "status & feedback"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/status & feedback/passport-expired.svg"
+  },
+  {
+    "enumName": "PASSPORT_VALID",
+    "displayName": "Passport Valid",
+    "category": "Status & Feedback",
+    "tags": [
+      "success",
+      "error",
+      "confirm",
+      "validate",
+      "status",
+      "feedback",
+      "passport",
+      "valid",
+      "status & feedback"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/status & feedback/passport-valid.svg"
+  },
+  {
+    "enumName": "FILE_02",
+    "displayName": "File 2",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "file",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/file-02.svg"
+  },
+  {
+    "enumName": "SEND_FILE",
+    "displayName": "Send File",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "send",
+      "file",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/send-file.svg"
+  },
+  {
+    "enumName": "CHECKED_FILE",
+    "displayName": "Checked File",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "checked",
+      "file",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/checked-file.svg"
+  },
+  {
+    "enumName": "ADD_FILE",
+    "displayName": "Add File",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "add",
+      "file",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/add-file.svg"
+  },
+  {
+    "enumName": "SHARE_FILE",
+    "displayName": "Share File",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "share",
+      "file",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/share-file.svg"
+  },
+  {
+    "enumName": "ANNEXED_FILE",
+    "displayName": "Annexed File",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "annexed",
+      "file",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/annexed-file.svg"
+  },
+  {
+    "enumName": "SEARCH_FILE",
+    "displayName": "Search File",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "search",
+      "file",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/search-file.svg"
+  },
+  {
+    "enumName": "BUILDING",
+    "displayName": "Building",
+    "category": "Business",
+    "tags": [
+      "business",
+      "company",
+      "office",
+      "enterprise",
+      "corporate",
+      "building"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/business/building.svg"
+  },
+  {
+    "enumName": "AI_07",
+    "displayName": "Ai 7",
+    "category": "AI",
+    "tags": [
+      "artificial intelligence",
+      "machine learning",
+      "generative",
+      "smart",
+      "auto",
+      "ai"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/ai/ai-07.svg"
+  },
+  {
+    "enumName": "AI_05",
+    "displayName": "Ai 5",
+    "category": "AI",
+    "tags": [
+      "artificial intelligence",
+      "machine learning",
+      "generative",
+      "smart",
+      "auto",
+      "ai"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/ai/ai-05.svg"
+  },
+  {
+    "enumName": "ATTACHMENT",
+    "displayName": "Attachment",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/attachment.svg"
+  },
+  {
+    "enumName": "FILE_PDF",
+    "displayName": "File Pdf",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "file",
+      "pdf",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/file-pdf.svg"
+  },
+  {
+    "enumName": "FILE_XML",
+    "displayName": "File Xml",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "file",
+      "xml",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/file-xml.svg"
+  },
+  {
+    "enumName": "NOTIFICATION",
+    "displayName": "Notification",
+    "category": "Communication",
+    "tags": [
+      "email",
+      "notify",
+      "alert",
+      "inbox",
+      "chat",
+      "message",
+      "notification",
+      "communication"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/communication/notification.svg"
+  },
+  {
+    "enumName": "DISCOUNT_01",
+    "displayName": "Discount 1",
+    "category": "E-Commerce",
+    "tags": [
+      "shop",
+      "buy",
+      "store",
+      "basket",
+      "order",
+      "cart",
+      "barcode",
+      "discount",
+      "e-commerce"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/e-commerce/discount-01.svg"
+  },
+  {
+    "enumName": "MORE_BOLD",
+    "displayName": "More Bold",
+    "category": "Interface",
+    "tags": [
+      "interface",
+      "action",
+      "ui",
+      "interaction",
+      "more",
+      "bold"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/interface/more-bold.svg"
+  },
+  {
+    "enumName": "MORE_GRID",
+    "displayName": "More Grid",
+    "category": "Layout & Views",
+    "tags": [
+      "view",
+      "display",
+      "board",
+      "grid",
+      "list",
+      "layout",
+      "more",
+      "layout & views"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/layout & views/more-grid.svg"
+  },
+  {
+    "enumName": "QR_CODE",
+    "displayName": "Qr Code",
+    "category": "E-Commerce",
+    "tags": [
+      "shop",
+      "buy",
+      "store",
+      "basket",
+      "order",
+      "cart",
+      "barcode",
+      "qr",
+      "code",
+      "e-commerce"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/e-commerce/qr-code.svg"
+  },
+  {
+    "enumName": "MAGIC_AI",
+    "displayName": "Magic Ai",
+    "category": "AI",
+    "tags": [
+      "artificial intelligence",
+      "machine learning",
+      "generative",
+      "smart",
+      "auto",
+      "magic",
+      "ai"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/ai/magic-ai.svg"
+  },
+  {
+    "enumName": "CHATTING",
+    "displayName": "Chatting",
+    "category": "Communication",
+    "tags": [
+      "email",
+      "notify",
+      "alert",
+      "inbox",
+      "chat",
+      "message",
+      "chatting",
+      "communication"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/communication/chatting.svg"
+  },
+  {
+    "enumName": "SEARCH_VISUAL",
+    "displayName": "Search Visual",
+    "category": "Search",
+    "tags": [
+      "find",
+      "lookup",
+      "magnifying glass",
+      "search",
+      "visual"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/search/search-visual.svg"
+  },
+  {
+    "enumName": "GOOGLE_SHEET",
+    "displayName": "Google Sheet",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "google",
+      "sheet",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/google-sheet.svg"
+  },
+  {
+    "enumName": "SENT",
+    "displayName": "Sent",
+    "category": "Cloud & Transfer",
+    "tags": [
+      "cloud",
+      "download",
+      "upload",
+      "transfer",
+      "sync",
+      "sent",
+      "cloud & transfer"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/cloud & transfer/sent.svg"
+  },
+  {
+    "enumName": "DASHBOARD_SQUARE_02",
+    "displayName": "Dashboard Square 2",
+    "category": "Layout & Views",
+    "tags": [
+      "view",
+      "display",
+      "board",
+      "grid",
+      "list",
+      "layout",
+      "dashboard",
+      "square",
+      "layout & views"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/layout & views/dashboard-square-02.svg"
+  },
+  {
+    "enumName": "DASHBOARD_SQUARE_ADD",
+    "displayName": "Dashboard Square Add",
+    "category": "Layout & Views",
+    "tags": [
+      "view",
+      "display",
+      "board",
+      "grid",
+      "list",
+      "layout",
+      "dashboard",
+      "square",
+      "add",
+      "layout & views"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/layout & views/dashboard-square-add.svg"
+  },
+  {
+    "enumName": "PLUG_SOCKET",
+    "displayName": "Plug Socket",
+    "category": "Settings & Tools",
+    "tags": [
+      "config",
+      "preferences",
+      "gear",
+      "options",
+      "tools",
+      "plug",
+      "socket",
+      "settings & tools"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/settings & tools/plug-socket.svg"
+  },
+  {
+    "enumName": "PUZZLE_STROKE_ROUNDED_01",
+    "displayName": "Puzzle Stroke Rounded 1",
+    "category": "Development",
+    "tags": [
+      "code",
+      "programming",
+      "development",
+      "api",
+      "puzzle",
+      "stroke",
+      "rounded"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/development/puzzle-stroke-rounded-01.svg"
+  },
+  {
+    "enumName": "COMPUTER_SETTINGS_STROKE_ROUNDED_O1",
+    "displayName": "Computer Settings Stroke Rounded O1",
+    "category": "Settings & Tools",
+    "tags": [
+      "config",
+      "preferences",
+      "gear",
+      "options",
+      "tools",
+      "computer",
+      "settings",
+      "stroke",
+      "rounded",
+      "o1",
+      "settings & tools"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/settings & tools/computer-settings-stroke-rounded-o1.svg"
+  },
+  {
+    "enumName": "CHART_RELATIONSHIP_STROKE_ROUNDED_01",
+    "displayName": "Chart Relationship Stroke Rounded 1",
+    "category": "Data & Analytics",
+    "tags": [
+      "graph",
+      "metrics",
+      "statistics",
+      "report",
+      "data",
+      "database",
+      "chart",
+      "relationship",
+      "stroke",
+      "rounded",
+      "data & analytics"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/data & analytics/chart-relationship-stroke-rounded-01.svg"
+  },
+  {
+    "enumName": "FLASH_ROUNDED",
+    "displayName": "Flash Rounded",
+    "category": "Interface",
+    "tags": [
+      "interface",
+      "action",
+      "ui",
+      "interaction",
+      "flash",
+      "rounded"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/interface/flash-rounded.svg"
+  },
+  {
+    "enumName": "FLASH_STROKE_ROUNDED",
+    "displayName": "Flash Stroke Rounded",
+    "category": "Interface",
+    "tags": [
+      "interface",
+      "action",
+      "ui",
+      "interaction",
+      "flash",
+      "stroke",
+      "rounded"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/interface/flash-stroke-rounded.svg"
+  },
+  {
+    "enumName": "MENTORING",
+    "displayName": "Mentoring",
+    "category": "Users",
+    "tags": [
+      "people",
+      "profile",
+      "team",
+      "group",
+      "person",
+      "account",
+      "mentoring",
+      "users"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/users/mentoring.svg"
+  },
+  {
+    "enumName": "PROMOTION",
+    "displayName": "Promotion",
+    "category": "E-Commerce",
+    "tags": [
+      "shop",
+      "buy",
+      "store",
+      "basket",
+      "order",
+      "cart",
+      "barcode",
+      "promotion",
+      "e-commerce"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/e-commerce/promotion.svg"
+  },
+  {
+    "enumName": "MESSAGE_MULTIPLE",
+    "displayName": "Message Multiple",
+    "category": "Communication",
+    "tags": [
+      "email",
+      "notify",
+      "alert",
+      "inbox",
+      "chat",
+      "message",
+      "multiple",
+      "communication"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/communication/message-multiple.svg"
+  },
+  {
+    "enumName": "ARROW_SHRINK",
+    "displayName": "Arrow Shrink",
+    "category": "Arrows",
+    "tags": [
+      "navigation",
+      "direction",
+      "back",
+      "forward",
+      "up",
+      "down",
+      "expand",
+      "collapse",
+      "arrow",
+      "shrink",
+      "arrows"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/arrows/arrow-shrink.svg"
+  },
+  {
+    "enumName": "DASHBOARD_SQUARE_01",
+    "displayName": "Dashboard Square 1",
+    "category": "Layout & Views",
+    "tags": [
+      "view",
+      "display",
+      "board",
+      "grid",
+      "list",
+      "layout",
+      "dashboard",
+      "square",
+      "layout & views"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/layout & views/dashboard-square-01.svg"
+  },
+  {
+    "enumName": "GRID_VIEW",
+    "displayName": "Grid View",
+    "category": "Layout & Views",
+    "tags": [
+      "view",
+      "display",
+      "board",
+      "grid",
+      "list",
+      "layout",
+      "layout & views"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/layout & views/grid-view.svg"
+  },
+  {
+    "enumName": "CREDIT_CARD_ADD",
+    "displayName": "Credit Card Add",
+    "category": "Finance",
+    "tags": [
+      "payment",
+      "banking",
+      "currency",
+      "transfer",
+      "withdraw",
+      "money",
+      "credit",
+      "card",
+      "add",
+      "finance"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/finance/credit-card-add.svg"
+  },
+  {
+    "enumName": "TABLE",
+    "displayName": "Table",
+    "category": "Layout & Views",
+    "tags": [
+      "view",
+      "display",
+      "board",
+      "grid",
+      "list",
+      "layout",
+      "table",
+      "layout & views"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/layout & views/table.svg"
+  },
+  {
+    "enumName": "PACKAGE_ADD",
+    "displayName": "Package Add",
+    "category": "Add & Remove",
+    "tags": [
+      "create",
+      "remove",
+      "cancel",
+      "clear",
+      "add",
+      "package",
+      "add & remove"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/add & remove/package-add.svg"
+  },
+  {
+    "enumName": "PACKAGE_REMOVE",
+    "displayName": "Package Remove",
+    "category": "Add & Remove",
+    "tags": [
+      "create",
+      "remove",
+      "cancel",
+      "clear",
+      "add",
+      "package",
+      "add & remove"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/add & remove/package-remove.svg"
+  },
+  {
+    "enumName": "PLAY_CIRCLE",
+    "displayName": "Play Circle",
+    "category": "Media",
+    "tags": [
+      "audio",
+      "video",
+      "media",
+      "play",
+      "record",
+      "circle"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/media/play-circle.svg"
+  },
+  {
+    "enumName": "MIC_01",
+    "displayName": "Mic 1",
+    "category": "Media",
+    "tags": [
+      "audio",
+      "video",
+      "media",
+      "play",
+      "record",
+      "mic"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/media/mic-01.svg"
+  },
+  {
+    "enumName": "COINS_DOLLAR",
+    "displayName": "Coins Dollar",
+    "category": "Finance",
+    "tags": [
+      "payment",
+      "banking",
+      "currency",
+      "transfer",
+      "withdraw",
+      "money",
+      "coins",
+      "dollar",
+      "finance"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/finance/coins-dollar.svg"
+  },
+  {
+    "enumName": "STORE_02",
+    "displayName": "Store 2",
+    "category": "E-Commerce",
+    "tags": [
+      "shop",
+      "buy",
+      "store",
+      "basket",
+      "order",
+      "cart",
+      "barcode",
+      "e-commerce"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/e-commerce/store-02.svg"
+  },
+  {
+    "enumName": "STORE_REMOVE_02",
+    "displayName": "Store Remove 2",
+    "category": "E-Commerce",
+    "tags": [
+      "shop",
+      "buy",
+      "store",
+      "basket",
+      "order",
+      "cart",
+      "barcode",
+      "remove",
+      "e-commerce"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/e-commerce/store-remove-02.svg"
+  },
+  {
+    "enumName": "HEADSET",
+    "displayName": "Headset",
+    "category": "Communication",
+    "tags": [
+      "email",
+      "notify",
+      "alert",
+      "inbox",
+      "chat",
+      "message",
+      "headset",
+      "communication"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/communication/headset.svg"
+  },
+  {
+    "enumName": "MANAGER",
+    "displayName": "Manager",
+    "category": "Users",
+    "tags": [
+      "people",
+      "profile",
+      "team",
+      "group",
+      "person",
+      "account",
+      "manager",
+      "users"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/users/manager.svg"
+  },
+  {
+    "enumName": "COMPUTER_DOLLAR",
+    "displayName": "Computer Dollar",
+    "category": "Finance",
+    "tags": [
+      "payment",
+      "banking",
+      "currency",
+      "transfer",
+      "withdraw",
+      "money",
+      "computer",
+      "dollar",
+      "finance"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/finance/computer-dollar.svg"
+  },
+  {
+    "enumName": "DISCORD",
+    "displayName": "Discord",
+    "category": "Social Media",
+    "tags": [
+      "social",
+      "network",
+      "share",
+      "discord",
+      "social media"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/social media/discord.svg"
+  },
+  {
+    "enumName": "YOUTUBE",
+    "displayName": "Youtube",
+    "category": "Social Media",
+    "tags": [
+      "social",
+      "network",
+      "share",
+      "youtube",
+      "social media"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/social media/youtube.svg"
+  },
+  {
+    "enumName": "CODE_FOLDER",
+    "displayName": "Code Folder",
+    "category": "Editing",
+    "tags": [
+      "write",
+      "draw",
+      "duplicate",
+      "clipboard",
+      "edit",
+      "code",
+      "folder",
+      "editing"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/editing/code-folder.svg"
+  },
+  {
+    "enumName": "TOUCH_INTERACTION",
+    "displayName": "Touch Interaction",
+    "category": "Interface",
+    "tags": [
+      "interface",
+      "action",
+      "ui",
+      "interaction",
+      "touch"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/interface/touch-interaction.svg"
+  },
+  {
+    "enumName": "WEBHOOK",
+    "displayName": "Webhook",
+    "category": "Settings & Tools",
+    "tags": [
+      "config",
+      "preferences",
+      "gear",
+      "options",
+      "tools",
+      "webhook",
+      "settings & tools"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/settings & tools/webhook.svg"
+  },
+  {
+    "enumName": "MAIL_AT_SIGN",
+    "displayName": "Mail At Sign",
+    "category": "Communication",
+    "tags": [
+      "email",
+      "notify",
+      "alert",
+      "inbox",
+      "chat",
+      "message",
+      "mail",
+      "at",
+      "sign",
+      "communication"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/communication/mail-at-sign.svg"
+  },
+  {
+    "enumName": "TIME_SETTING",
+    "displayName": "Time Setting",
+    "category": "Settings & Tools",
+    "tags": [
+      "config",
+      "preferences",
+      "gear",
+      "options",
+      "tools",
+      "time",
+      "setting",
+      "settings & tools"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/settings & tools/time-setting.svg"
+  },
+  {
+    "enumName": "SECURITY_LOCK",
+    "displayName": "Security Lock",
+    "category": "Security",
+    "tags": [
+      "privacy",
+      "password",
+      "authentication",
+      "security",
+      "lock"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/security/security-lock.svg"
+  },
+  {
+    "enumName": "FLAG_02",
+    "displayName": "Flag 2",
+    "category": "Flags",
+    "tags": [
+      "country",
+      "language",
+      "locale",
+      "flag",
+      "flags"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/flags/flag-02.svg"
+  },
+  {
+    "enumName": "DASHBOARD_CIRCLE_SETTINGS",
+    "displayName": "Dashboard Circle Settings",
+    "category": "Settings & Tools",
+    "tags": [
+      "config",
+      "preferences",
+      "gear",
+      "options",
+      "tools",
+      "dashboard",
+      "circle",
+      "settings",
+      "settings & tools"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/settings & tools/dashboard-circle-settings.svg"
+  },
+  {
+    "enumName": "IDEA",
+    "displayName": "Idea",
+    "category": "Interface",
+    "tags": [
+      "interface",
+      "action",
+      "ui",
+      "interaction",
+      "idea"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/interface/idea.svg"
+  },
+  {
+    "enumName": "ARROW_DOWN_LEFT_01",
+    "displayName": "Arrow Down Left 1",
+    "category": "Arrows",
+    "tags": [
+      "navigation",
+      "direction",
+      "back",
+      "forward",
+      "up",
+      "down",
+      "expand",
+      "collapse",
+      "arrow",
+      "left",
+      "arrows"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/arrows/arrow-down-left-01.svg"
+  },
+  {
+    "enumName": "ARROW_DOWN_RIGHT_01",
+    "displayName": "Arrow Down Right 1",
+    "category": "Arrows",
+    "tags": [
+      "navigation",
+      "direction",
+      "back",
+      "forward",
+      "up",
+      "down",
+      "expand",
+      "collapse",
+      "arrow",
+      "right",
+      "arrows"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/arrows/arrow-down-right-01.svg"
+  },
+  {
+    "enumName": "ARROW_UP_RIGHT_01",
+    "displayName": "Arrow Up Right 1",
+    "category": "Arrows",
+    "tags": [
+      "navigation",
+      "direction",
+      "back",
+      "forward",
+      "up",
+      "down",
+      "expand",
+      "collapse",
+      "arrow",
+      "right",
+      "arrows"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/arrows/arrow-up-right-01.svg"
+  },
+  {
+    "enumName": "MONEY_03",
+    "displayName": "Money 3",
+    "category": "Finance",
+    "tags": [
+      "payment",
+      "banking",
+      "currency",
+      "transfer",
+      "withdraw",
+      "money",
+      "finance"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/finance/money-03.svg"
+  },
+  {
+    "enumName": "AUTHORIZED",
+    "displayName": "Authorized",
+    "category": "Security",
+    "tags": [
+      "privacy",
+      "password",
+      "authentication",
+      "security",
+      "authorized"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/security/authorized.svg"
+  },
+  {
+    "enumName": "CIRCLE_ARROW_UP_01",
+    "displayName": "Circle Arrow Up 1",
+    "category": "Arrows",
+    "tags": [
+      "navigation",
+      "direction",
+      "back",
+      "forward",
+      "up",
+      "down",
+      "expand",
+      "collapse",
+      "circle",
+      "arrow",
+      "arrows"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/arrows/circle-arrow-up-01.svg"
+  },
+  {
+    "enumName": "ARROW_DOWNWARD",
+    "displayName": "Arrow Downward",
+    "category": "Arrows",
+    "tags": [
+      "navigation",
+      "direction",
+      "back",
+      "forward",
+      "up",
+      "down",
+      "expand",
+      "collapse",
+      "arrow",
+      "downward",
+      "arrows"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/arrows/arrow-downward.svg"
+  },
+  {
+    "enumName": "PENCIL",
+    "displayName": "Pencil",
+    "category": "Editing",
+    "tags": [
+      "write",
+      "draw",
+      "duplicate",
+      "clipboard",
+      "edit",
+      "pencil",
+      "editing"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/editing/pencil.svg"
+  },
+  {
+    "enumName": "CVC",
+    "displayName": "Cvc",
+    "category": "Payment Cards",
+    "tags": [
+      "credit",
+      "debit",
+      "card brand",
+      "payment method",
+      "cvc",
+      "payment cards"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/payment cards/cvc.svg"
+  },
+  {
+    "enumName": "PACKAGE_OPEN",
+    "displayName": "Package Open",
+    "category": "Logistics",
+    "tags": [
+      "transport",
+      "tracking",
+      "shipping",
+      "delivery",
+      "package",
+      "open",
+      "logistics"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/logistics/package-open.svg"
+  },
+  {
+    "enumName": "PACKAGE_MOVING",
+    "displayName": "Package Moving",
+    "category": "Logistics",
+    "tags": [
+      "transport",
+      "tracking",
+      "shipping",
+      "delivery",
+      "package",
+      "moving",
+      "logistics"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/logistics/package-moving.svg"
+  },
+  {
+    "enumName": "INSERT_CENTER_IMAGE",
+    "displayName": "Insert Center Image",
+    "category": "Media",
+    "tags": [
+      "audio",
+      "video",
+      "media",
+      "play",
+      "record",
+      "insert",
+      "center",
+      "image"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/media/insert-center-image.svg"
+  },
+  {
+    "enumName": "FILTER_MAIL_SQUARE",
+    "displayName": "Filter Mail Square",
+    "category": "Filter & Sort",
+    "tags": [
+      "order",
+      "ascending",
+      "descending",
+      "organize",
+      "filter",
+      "mail",
+      "square",
+      "filter & sort"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/filter & sort/filter-mail-square.svg"
+  },
+  {
+    "enumName": "LAYOUT_04",
+    "displayName": "Layout 4",
+    "category": "Layout & Views",
+    "tags": [
+      "view",
+      "display",
+      "board",
+      "grid",
+      "list",
+      "layout",
+      "layout & views"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/layout & views/layout-04.svg"
+  },
+  {
+    "enumName": "LIST_SETTING",
+    "displayName": "List Setting",
+    "category": "Settings & Tools",
+    "tags": [
+      "config",
+      "preferences",
+      "gear",
+      "options",
+      "tools",
+      "list",
+      "setting",
+      "settings & tools"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/settings & tools/list-setting.svg"
+  },
+  {
+    "enumName": "SEARCHING",
+    "displayName": "Searching",
+    "category": "Search",
+    "tags": [
+      "find",
+      "lookup",
+      "magnifying glass",
+      "search",
+      "searching"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/search/searching.svg"
+  },
+  {
+    "enumName": "SORTING_03",
+    "displayName": "Sorting 3",
+    "category": "Filter & Sort",
+    "tags": [
+      "order",
+      "ascending",
+      "descending",
+      "organize",
+      "filter",
+      "sorting",
+      "filter & sort"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/filter & sort/sorting-03.svg"
+  },
+  {
+    "enumName": "NOTE_01",
+    "displayName": "Note 1",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "note",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/note-01.svg"
+  },
+  {
+    "enumName": "NOTE_ADD",
+    "displayName": "Note Add",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "note",
+      "add",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/note-add.svg"
+  },
+  {
+    "enumName": "FILE_STAR",
+    "displayName": "File Star",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "file",
+      "star",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/file-star.svg"
+  },
+  {
+    "enumName": "INVOICE_03",
+    "displayName": "Invoice 3",
+    "category": "Finance",
+    "tags": [
+      "payment",
+      "banking",
+      "currency",
+      "transfer",
+      "withdraw",
+      "money",
+      "invoice",
+      "finance"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/finance/invoice-03.svg"
+  },
+  {
+    "enumName": "DRAG_AND_DROP",
+    "displayName": "Drag And Drop",
+    "category": "Editing",
+    "tags": [
+      "write",
+      "draw",
+      "duplicate",
+      "clipboard",
+      "edit",
+      "drag",
+      "and",
+      "drop",
+      "editing"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/editing/drag-and-drop.svg"
+  },
+  {
+    "enumName": "FACEBOOK_02",
+    "displayName": "Facebook 2",
+    "category": "Social Media",
+    "tags": [
+      "social",
+      "network",
+      "share",
+      "facebook",
+      "social media"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/social media/facebook-02.svg"
+  },
+  {
+    "enumName": "INSTAGRAM",
+    "displayName": "Instagram",
+    "category": "Social Media",
+    "tags": [
+      "social",
+      "network",
+      "share",
+      "instagram",
+      "social media"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/social media/instagram.svg"
+  },
+  {
+    "enumName": "TIKTOK",
+    "displayName": "Tiktok",
+    "category": "Social Media",
+    "tags": [
+      "social",
+      "network",
+      "share",
+      "tiktok",
+      "social media"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/social media/tiktok.svg"
+  },
+  {
+    "enumName": "LINKEDIN",
+    "displayName": "Linkedin",
+    "category": "Social Media",
+    "tags": [
+      "social",
+      "network",
+      "share",
+      "linkedin",
+      "social media"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/social media/linkedin.svg"
+  },
+  {
+    "enumName": "X",
+    "displayName": "X",
+    "category": "Social Media",
+    "tags": [
+      "social",
+      "network",
+      "share",
+      "social media"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/social media/x.svg"
+  },
+  {
+    "enumName": "TELEPHONE",
+    "displayName": "Telephone",
+    "category": "Communication",
+    "tags": [
+      "email",
+      "notify",
+      "alert",
+      "inbox",
+      "chat",
+      "message",
+      "telephone",
+      "communication"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/communication/telephone.svg"
+  },
+  {
+    "enumName": "SIDEBAR_LEFT",
+    "displayName": "Sidebar Left",
+    "category": "Layout & Views",
+    "tags": [
+      "view",
+      "display",
+      "board",
+      "grid",
+      "list",
+      "layout",
+      "sidebar",
+      "left",
+      "layout & views"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/layout & views/sidebar-left.svg"
+  },
+  {
+    "enumName": "SIMPLE_LIST",
+    "displayName": "Simple List",
+    "category": "Layout & Views",
+    "tags": [
+      "view",
+      "display",
+      "board",
+      "grid",
+      "list",
+      "layout",
+      "simple",
+      "layout & views"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/layout & views/simple-list.svg"
+  },
+  {
+    "enumName": "COLUMNS",
+    "displayName": "Columns",
+    "category": "Layout & Views",
+    "tags": [
+      "view",
+      "display",
+      "board",
+      "grid",
+      "list",
+      "layout",
+      "columns",
+      "layout & views"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/layout & views/columns.svg"
+  },
+  {
+    "enumName": "CUSTOMIZE",
+    "displayName": "Customize",
+    "category": "Settings & Tools",
+    "tags": [
+      "config",
+      "preferences",
+      "gear",
+      "options",
+      "tools",
+      "customize",
+      "settings & tools"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/settings & tools/customize.svg"
+  },
+  {
+    "enumName": "HORIZONTAL_LIST_ICON",
+    "displayName": "Horizontal List Icon",
+    "category": "Layout & Views",
+    "tags": [
+      "view",
+      "display",
+      "board",
+      "grid",
+      "list",
+      "layout",
+      "horizontal",
+      "icon",
+      "layout & views"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/layout & views/horizontal-list-icon.svg"
+  },
+  {
+    "enumName": "HORIZONTAL_LINES_ICON",
+    "displayName": "Horizontal Lines Icon",
+    "category": "Layout & Views",
+    "tags": [
+      "view",
+      "display",
+      "board",
+      "grid",
+      "list",
+      "layout",
+      "horizontal",
+      "lines",
+      "icon",
+      "layout & views"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/layout & views/horizontal-lines-icon.svg"
+  },
+  {
+    "enumName": "DOUBLE_CHAT_BUBBLE",
+    "displayName": "Double Chat Bubble",
+    "category": "Communication",
+    "tags": [
+      "email",
+      "notify",
+      "alert",
+      "inbox",
+      "chat",
+      "message",
+      "double",
+      "bubble",
+      "communication"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/communication/double-chat-bubble.svg"
+  },
+  {
+    "enumName": "FILTER_PERSONALIZATION",
+    "displayName": "Filter Personalization",
+    "category": "Filter & Sort",
+    "tags": [
+      "order",
+      "ascending",
+      "descending",
+      "organize",
+      "filter",
+      "personalization",
+      "filter & sort"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/filter & sort/filter-personalization.svg"
+  },
+  {
+    "enumName": "ZAP_ICON",
+    "displayName": "Zap Icon",
+    "category": "Interface",
+    "tags": [
+      "interface",
+      "action",
+      "ui",
+      "interaction",
+      "zap",
+      "icon"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/interface/zap-icon.svg"
+  },
+  {
+    "enumName": "SAVE_DISK",
+    "displayName": "Save Disk",
+    "category": "Editing",
+    "tags": [
+      "write",
+      "draw",
+      "duplicate",
+      "clipboard",
+      "edit",
+      "save",
+      "disk",
+      "editing"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/editing/save-disk.svg"
+  },
+  {
+    "enumName": "AI_SCREEN",
+    "displayName": "Ai Screen",
+    "category": "AI",
+    "tags": [
+      "artificial intelligence",
+      "machine learning",
+      "generative",
+      "smart",
+      "auto",
+      "ai",
+      "screen"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/ai/ai-screen.svg"
+  },
+  {
+    "enumName": "AI_IDEA",
+    "displayName": "Ai Idea",
+    "category": "AI",
+    "tags": [
+      "artificial intelligence",
+      "machine learning",
+      "generative",
+      "smart",
+      "auto",
+      "ai",
+      "idea"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/ai/ai-idea.svg"
+  },
+  {
+    "enumName": "REVERSE",
+    "displayName": "Reverse",
+    "category": "Interface",
+    "tags": [
+      "interface",
+      "action",
+      "ui",
+      "interaction",
+      "reverse"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/interface/reverse.svg"
+  },
+  {
+    "enumName": "INBOX_DOWNLOAD",
+    "displayName": "Inbox Download",
+    "category": "Cloud & Transfer",
+    "tags": [
+      "cloud",
+      "download",
+      "upload",
+      "transfer",
+      "sync",
+      "inbox",
+      "cloud & transfer"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/cloud & transfer/inbox-download.svg"
+  },
+  {
+    "enumName": "CHECKMARK_CIRCLE",
+    "displayName": "Checkmark Circle",
+    "category": "Status & Feedback",
+    "tags": [
+      "success",
+      "error",
+      "confirm",
+      "validate",
+      "status",
+      "feedback",
+      "checkmark",
+      "circle",
+      "status & feedback"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/status & feedback/checkmark-circle.svg"
+  },
+  {
+    "enumName": "CHECKMARK_CIRCLE_ROUNDED",
+    "displayName": "Checkmark Circle Rounded",
+    "category": "Status & Feedback",
+    "tags": [
+      "success",
+      "error",
+      "confirm",
+      "validate",
+      "status",
+      "feedback",
+      "checkmark",
+      "circle",
+      "rounded",
+      "status & feedback"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/status & feedback/checkmark-circle-rounded.svg"
+  },
+  {
+    "enumName": "CHECK_LIST",
+    "displayName": "Check List",
+    "category": "Status & Feedback",
+    "tags": [
+      "success",
+      "error",
+      "confirm",
+      "validate",
+      "status",
+      "feedback",
+      "check",
+      "list",
+      "status & feedback"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/status & feedback/check-list.svg"
+  },
+  {
+    "enumName": "THUMBS_DOWN",
+    "displayName": "Thumbs Down",
+    "category": "Status & Feedback",
+    "tags": [
+      "success",
+      "error",
+      "confirm",
+      "validate",
+      "status",
+      "feedback",
+      "thumbs",
+      "down",
+      "status & feedback"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/status & feedback/thumbs-down.svg"
+  },
+  {
+    "enumName": "THUMBS_UP",
+    "displayName": "Thumbs Up",
+    "category": "Status & Feedback",
+    "tags": [
+      "success",
+      "error",
+      "confirm",
+      "validate",
+      "status",
+      "feedback",
+      "thumbs",
+      "up",
+      "status & feedback"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/status & feedback/thumbs-up.svg"
+  },
+  {
+    "enumName": "THUMBS_DOWN_ROUNDED",
+    "displayName": "Thumbs Down Rounded",
+    "category": "Status & Feedback",
+    "tags": [
+      "success",
+      "error",
+      "confirm",
+      "validate",
+      "status",
+      "feedback",
+      "thumbs",
+      "down",
+      "rounded",
+      "status & feedback"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/status & feedback/thumbs-down-rounded.svg"
+  },
+  {
+    "enumName": "THUMBS_UP_ROUNDED",
+    "displayName": "Thumbs Up Rounded",
+    "category": "Status & Feedback",
+    "tags": [
+      "success",
+      "error",
+      "confirm",
+      "validate",
+      "status",
+      "feedback",
+      "thumbs",
+      "up",
+      "rounded",
+      "status & feedback"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/status & feedback/thumbs-up-rounded.svg"
+  },
+  {
+    "enumName": "MAIL_AT_SIGN_01",
+    "displayName": "Mail At Sign 1",
+    "category": "Communication",
+    "tags": [
+      "email",
+      "notify",
+      "alert",
+      "inbox",
+      "chat",
+      "message",
+      "mail",
+      "at",
+      "sign",
+      "communication"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/communication/mail-at-sign-01.svg"
+  },
+  {
+    "enumName": "LOCK_PASSWORD",
+    "displayName": "Lock Password",
+    "category": "Security",
+    "tags": [
+      "privacy",
+      "password",
+      "authentication",
+      "security",
+      "lock"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/security/lock-password.svg"
+  },
+  {
+    "enumName": "ACCESS",
+    "displayName": "Access",
+    "category": "Security",
+    "tags": [
+      "privacy",
+      "password",
+      "authentication",
+      "security",
+      "access"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/security/access.svg"
+  },
+  {
+    "enumName": "CHART",
+    "displayName": "Chart",
+    "category": "Data & Analytics",
+    "tags": [
+      "graph",
+      "metrics",
+      "statistics",
+      "report",
+      "data",
+      "database",
+      "chart",
+      "data & analytics"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/data & analytics/chart.svg"
+  },
+  {
+    "enumName": "UNFOLD_MORE",
+    "displayName": "Unfold More",
+    "category": "Arrows",
+    "tags": [
+      "navigation",
+      "direction",
+      "back",
+      "forward",
+      "up",
+      "down",
+      "expand",
+      "collapse",
+      "unfold",
+      "more",
+      "arrows"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/arrows/unfold-more.svg"
+  },
+  {
+    "enumName": "PLAY_SOLID",
+    "displayName": "Play Solid",
+    "category": "Media",
+    "tags": [
+      "audio",
+      "video",
+      "media",
+      "play",
+      "record",
+      "solid"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/media/play-solid.svg"
+  },
+  {
+    "enumName": "PAUSE_SOLID",
+    "displayName": "Pause Solid",
+    "category": "Media",
+    "tags": [
+      "audio",
+      "video",
+      "media",
+      "play",
+      "record",
+      "pause",
+      "solid"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/media/pause-solid.svg"
+  },
+  {
+    "enumName": "PERSON_CHAT_BUBBLE",
+    "displayName": "Person Chat Bubble",
+    "category": "Communication",
+    "tags": [
+      "email",
+      "notify",
+      "alert",
+      "inbox",
+      "chat",
+      "message",
+      "person",
+      "bubble",
+      "communication"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/communication/person-chat-bubble.svg"
+  },
+  {
+    "enumName": "AI_CHAT_BUBBLE",
+    "displayName": "Ai Chat Bubble",
+    "category": "AI",
+    "tags": [
+      "artificial intelligence",
+      "machine learning",
+      "generative",
+      "smart",
+      "auto",
+      "ai",
+      "chat",
+      "bubble"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/ai/ai-chat-bubble.svg"
+  },
+  {
+    "enumName": "USER_CIRCLE_02",
+    "displayName": "User Circle 2",
+    "category": "Users",
+    "tags": [
+      "people",
+      "profile",
+      "team",
+      "group",
+      "person",
+      "account",
+      "user",
+      "circle",
+      "users"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/users/user-circle-02.svg"
+  },
+  {
+    "enumName": "TASK_01",
+    "displayName": "Task 1",
+    "category": "Interface",
+    "tags": [
+      "interface",
+      "action",
+      "ui",
+      "interaction",
+      "task"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/interface/task-01.svg"
+  },
+  {
+    "enumName": "ADD_TO_LIST",
+    "displayName": "Add To List",
+    "category": "Add & Remove",
+    "tags": [
+      "create",
+      "remove",
+      "cancel",
+      "clear",
+      "add",
+      "to",
+      "list",
+      "add & remove"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/add & remove/add-to-list.svg"
+  },
+  {
+    "enumName": "USER_GRANT_ACCESS",
+    "displayName": "User Grant Access",
+    "category": "Users",
+    "tags": [
+      "people",
+      "profile",
+      "team",
+      "group",
+      "person",
+      "account",
+      "user",
+      "grant",
+      "access",
+      "users"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/users/user-grant-access.svg"
+  },
+  {
+    "enumName": "USER_DENIED_ACCESS",
+    "displayName": "User Denied Access",
+    "category": "Users",
+    "tags": [
+      "people",
+      "profile",
+      "team",
+      "group",
+      "person",
+      "account",
+      "user",
+      "denied",
+      "access",
+      "users"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/users/user-denied-access.svg"
+  },
+  {
+    "enumName": "HEXAGON_WARNING",
+    "displayName": "Hexagon Warning",
+    "category": "Status & Feedback",
+    "tags": [
+      "success",
+      "error",
+      "confirm",
+      "validate",
+      "status",
+      "feedback",
+      "hexagon",
+      "warning",
+      "status & feedback"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/status & feedback/hexagon-warning.svg"
+  },
+  {
+    "enumName": "ZOE_AI",
+    "displayName": "Zoe Ai",
+    "category": "Branding",
+    "tags": [
+      "logo",
+      "brand",
+      "identity",
+      "zydon",
+      "zoe",
+      "ai",
+      "branding"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/branding/zoe-ai.svg"
+  },
+  {
+    "enumName": "ZYDON",
+    "displayName": "Zydon",
+    "category": "Branding",
+    "tags": [
+      "logo",
+      "brand",
+      "identity",
+      "zydon",
+      "branding"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/branding/zydon.svg"
+  },
+  {
+    "enumName": "ZYDON_PAY",
+    "displayName": "Zydon Pay",
+    "category": "Branding",
+    "tags": [
+      "logo",
+      "brand",
+      "identity",
+      "zydon",
+      "pay",
+      "branding"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/branding/zydon-pay.svg"
+  },
+  {
+    "enumName": "ROCKET",
+    "displayName": "Rocket",
+    "category": "Interface",
+    "tags": [
+      "interface",
+      "action",
+      "ui",
+      "interaction",
+      "rocket"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/interface/rocket.svg"
+  },
+  {
+    "enumName": "PRODUCT_BOX",
+    "displayName": "Product Box",
+    "category": "Logistics",
+    "tags": [
+      "transport",
+      "tracking",
+      "shipping",
+      "delivery",
+      "package",
+      "product",
+      "box",
+      "logistics"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/logistics/product-box.svg"
+  },
+  {
+    "enumName": "KEY_ACCESS",
+    "displayName": "Key Access",
+    "category": "Security",
+    "tags": [
+      "privacy",
+      "password",
+      "authentication",
+      "security",
+      "key",
+      "access"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/security/key-access.svg"
+  },
+  {
+    "enumName": "ORDENATING",
+    "displayName": "Ordenating",
+    "category": "Filter & Sort",
+    "tags": [
+      "order",
+      "ascending",
+      "descending",
+      "organize",
+      "filter",
+      "ordenating",
+      "filter & sort"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/filter & sort/ordenating.svg"
+  },
+  {
+    "enumName": "PRODUCT_SEARCH_BOX",
+    "displayName": "Product Search Box",
+    "category": "Logistics",
+    "tags": [
+      "transport",
+      "tracking",
+      "shipping",
+      "delivery",
+      "package",
+      "product",
+      "search",
+      "box",
+      "logistics"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/logistics/product-search-box.svg"
+  },
+  {
+    "enumName": "LIST_SQUARE",
+    "displayName": "List Square",
+    "category": "Layout & Views",
+    "tags": [
+      "view",
+      "display",
+      "board",
+      "grid",
+      "list",
+      "layout",
+      "square",
+      "layout & views"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/layout & views/list-square.svg"
+  },
+  {
+    "enumName": "SIZE_BOX",
+    "displayName": "Size Box",
+    "category": "Logistics",
+    "tags": [
+      "transport",
+      "tracking",
+      "shipping",
+      "delivery",
+      "package",
+      "size",
+      "box",
+      "logistics"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/logistics/size-box.svg"
+  },
+  {
+    "enumName": "OPENED_BOX",
+    "displayName": "Opened Box",
+    "category": "Logistics",
+    "tags": [
+      "transport",
+      "tracking",
+      "shipping",
+      "delivery",
+      "package",
+      "opened",
+      "box",
+      "logistics"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/logistics/opened-box.svg"
+  },
+  {
+    "enumName": "INFORMATIONS",
+    "displayName": "Informations",
+    "category": "Status & Feedback",
+    "tags": [
+      "success",
+      "error",
+      "confirm",
+      "validate",
+      "status",
+      "feedback",
+      "informations",
+      "status & feedback"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/status & feedback/informations.svg"
+  },
+  {
+    "enumName": "VERIFIED",
+    "displayName": "Verified",
+    "category": "Status & Feedback",
+    "tags": [
+      "success",
+      "error",
+      "confirm",
+      "validate",
+      "status",
+      "feedback",
+      "verified",
+      "status & feedback"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/status & feedback/verified.svg"
+  },
+  {
+    "enumName": "ARROW_DOWN_CICLE_01",
+    "displayName": "Arrow Down Cicle 1",
+    "category": "Arrows",
+    "tags": [
+      "navigation",
+      "direction",
+      "back",
+      "forward",
+      "up",
+      "down",
+      "expand",
+      "collapse",
+      "arrow",
+      "cicle",
+      "arrows"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/arrows/arrow-down-cicle-01.svg"
+  },
+  {
+    "enumName": "CALCULATOR_MONEY",
+    "displayName": "Calculator Money",
+    "category": "Finance",
+    "tags": [
+      "payment",
+      "banking",
+      "currency",
+      "transfer",
+      "withdraw",
+      "money",
+      "calculator",
+      "finance"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/finance/calculator-money.svg"
+  },
+  {
+    "enumName": "LOCKED",
+    "displayName": "Locked",
+    "category": "Security",
+    "tags": [
+      "privacy",
+      "password",
+      "authentication",
+      "security",
+      "locked"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/security/locked.svg"
+  },
+  {
+    "enumName": "AI_PROGRAMMING",
+    "displayName": "Ai Programming",
+    "category": "AI",
+    "tags": [
+      "artificial intelligence",
+      "machine learning",
+      "generative",
+      "smart",
+      "auto",
+      "ai",
+      "programming"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/ai/ai-programming.svg"
+  },
+  {
+    "enumName": "GITHUB_ICON",
+    "displayName": "Github Icon",
+    "category": "Development",
+    "tags": [
+      "code",
+      "programming",
+      "development",
+      "api",
+      "github",
+      "icon"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/development/github-icon.svg"
+  },
+  {
+    "enumName": "GITHUB_STROKED_ICON",
+    "displayName": "Github Stroked Icon",
+    "category": "Development",
+    "tags": [
+      "code",
+      "programming",
+      "development",
+      "api",
+      "github",
+      "stroked",
+      "icon"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/development/github-stroked-icon.svg"
+  },
+  {
+    "enumName": "REPOSITORY",
+    "displayName": "Repository",
+    "category": "Development",
+    "tags": [
+      "code",
+      "programming",
+      "development",
+      "api",
+      "repository"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/development/repository.svg"
+  },
+  {
+    "enumName": "GLOBAL_ICON",
+    "displayName": "Global Icon",
+    "category": "Navigation",
+    "tags": [
+      "home",
+      "menu",
+      "navigation",
+      "link",
+      "location",
+      "global",
+      "icon"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/navigation/global-icon.svg"
+  },
+  {
+    "enumName": "TORN_LIST",
+    "displayName": "Torn List",
+    "category": "Layout & Views",
+    "tags": [
+      "view",
+      "display",
+      "board",
+      "grid",
+      "list",
+      "layout",
+      "torn",
+      "layout & views"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/layout & views/torn-list.svg"
+  },
+  {
+    "enumName": "CHECK_SUCCESS_FILE",
+    "displayName": "Check Success File",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "check",
+      "success",
+      "file",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/check-success-file.svg"
+  },
+  {
+    "enumName": "TIME_LIST",
+    "displayName": "Time List",
+    "category": "Time & Calendar",
+    "tags": [
+      "date",
+      "time",
+      "schedule",
+      "calendar",
+      "clock",
+      "list",
+      "time & calendar"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/time & calendar/time-list.svg"
+  },
+  {
+    "enumName": "ERROR_BELL",
+    "displayName": "Error Bell",
+    "category": "Communication",
+    "tags": [
+      "email",
+      "notify",
+      "alert",
+      "inbox",
+      "chat",
+      "message",
+      "error",
+      "bell",
+      "communication"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/communication/error-bell.svg"
+  },
+  {
+    "enumName": "WAVE_FILE",
+    "displayName": "Wave File",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "wave",
+      "file",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/wave-file.svg"
+  },
+  {
+    "enumName": "WITHDRAW",
+    "displayName": "Withdraw",
+    "category": "Finance",
+    "tags": [
+      "payment",
+      "banking",
+      "currency",
+      "transfer",
+      "withdraw",
+      "money",
+      "finance"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/finance/withdraw.svg"
+  },
+  {
+    "enumName": "SORT_BY_TIME_DUOTONE",
+    "displayName": "Sort By Time Duotone",
+    "category": "Filter & Sort",
+    "tags": [
+      "order",
+      "ascending",
+      "descending",
+      "organize",
+      "filter",
+      "sort",
+      "by",
+      "time",
+      "duotone",
+      "filter & sort"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/filter & sort/sort-by-time-duotone.svg"
+  },
+  {
+    "enumName": "BELL_DUOTONE",
+    "displayName": "Bell Duotone",
+    "category": "Communication",
+    "tags": [
+      "email",
+      "notify",
+      "alert",
+      "inbox",
+      "chat",
+      "message",
+      "bell",
+      "duotone",
+      "communication"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/communication/bell-duotone.svg"
+  },
+  {
+    "enumName": "FILE_CHECK_DUOTONE",
+    "displayName": "File Check Duotone",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "file",
+      "check",
+      "duotone",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/file-check-duotone.svg"
+  },
+  {
+    "enumName": "FILE_CORRUPTED_DUOTONE",
+    "displayName": "File Corrupted Duotone",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "file",
+      "corrupted",
+      "duotone",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/file-corrupted-duotone.svg"
+  },
+  {
+    "enumName": "LIST_DUOTONE",
+    "displayName": "List Duotone",
+    "category": "Layout & Views",
+    "tags": [
+      "view",
+      "display",
+      "board",
+      "grid",
+      "list",
+      "layout",
+      "duotone",
+      "layout & views"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/layout & views/list-duotone.svg"
+  },
+  {
+    "enumName": "ARTIFICIAL_INTELLIGENCE",
+    "displayName": "Artificial Intelligence",
+    "category": "AI",
+    "tags": [
+      "artificial intelligence",
+      "machine learning",
+      "generative",
+      "smart",
+      "auto",
+      "artificial",
+      "intelligence",
+      "ai"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/ai/artificial-intelligence.svg"
+  },
+  {
+    "enumName": "TOOLS",
+    "displayName": "Tools",
+    "category": "Settings & Tools",
+    "tags": [
+      "config",
+      "preferences",
+      "gear",
+      "options",
+      "tools",
+      "settings & tools"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/settings & tools/tools.svg"
+  },
+  {
+    "enumName": "CLOCK_03",
+    "displayName": "Clock 3",
+    "category": "Time & Calendar",
+    "tags": [
+      "date",
+      "time",
+      "schedule",
+      "calendar",
+      "clock",
+      "time & calendar"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/time & calendar/clock-03.svg"
+  },
+  {
+    "enumName": "LIST_CLOCK",
+    "displayName": "List Clock",
+    "category": "Time & Calendar",
+    "tags": [
+      "date",
+      "time",
+      "schedule",
+      "calendar",
+      "clock",
+      "list",
+      "time & calendar"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/time & calendar/list-clock.svg"
+  },
+  {
+    "enumName": "CANCEL_CIRCLE_SOLID",
+    "displayName": "Cancel Circle Solid",
+    "category": "Status & Feedback",
+    "tags": [
+      "success",
+      "error",
+      "confirm",
+      "validate",
+      "status",
+      "feedback",
+      "cancel",
+      "circle",
+      "solid",
+      "status & feedback"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/status & feedback/cancel-circle-solid.svg"
+  },
+  {
+    "enumName": "SORTING_AZ_02",
+    "displayName": "Sorting Az 2",
+    "category": "Filter & Sort",
+    "tags": [
+      "order",
+      "ascending",
+      "descending",
+      "organize",
+      "filter",
+      "sorting",
+      "az",
+      "filter & sort"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/filter & sort/sorting-az-02.svg"
+  },
+  {
+    "enumName": "MEDIA_VIDEO_FILES",
+    "displayName": "Media Video Files",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "media",
+      "video",
+      "files",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/media-video-files.svg"
+  },
+  {
+    "enumName": "MEDIA_IMAGE_FILES",
+    "displayName": "Media Image Files",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "media",
+      "image",
+      "files",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/media-image-files.svg"
+  },
+  {
+    "enumName": "MEDIA_PDF_FILES",
+    "displayName": "Media Pdf Files",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "media",
+      "pdf",
+      "files",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/media-pdf-files.svg"
+  },
+  {
+    "enumName": "MEDIA_SHEET_FILES",
+    "displayName": "Media Sheet Files",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "media",
+      "sheet",
+      "files",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/media-sheet-files.svg"
+  },
+  {
+    "enumName": "MEDIA_PPSX_FILES",
+    "displayName": "Media Ppsx Files",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "media",
+      "ppsx",
+      "files",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/media-ppsx-files.svg"
+  },
+  {
+    "enumName": "MEDIA_DOC_FILES",
+    "displayName": "Media Doc Files",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "media",
+      "doc",
+      "files",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/media-doc-files.svg"
+  },
+  {
+    "enumName": "MEDIA_AUDIO_FILES",
+    "displayName": "Media Audio Files",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "media",
+      "audio",
+      "files",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/media-audio-files.svg"
+  },
+  {
+    "enumName": "MEDIA_ZIP_FILES",
+    "displayName": "Media Zip Files",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "media",
+      "zip",
+      "files",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/media-zip-files.svg"
+  },
+  {
+    "enumName": "MEDIA_TXT_FILES",
+    "displayName": "Media Txt Files",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "media",
+      "txt",
+      "files",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/media-txt-files.svg"
+  },
+  {
+    "enumName": "MEDIA_GENERIC_FILES",
+    "displayName": "Media Generic Files",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "media",
+      "generic",
+      "files",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/media-generic-files.svg"
+  },
+  {
+    "enumName": "USA_FLAG",
+    "displayName": "Usa Flag",
+    "category": "Flags",
+    "tags": [
+      "country",
+      "language",
+      "locale",
+      "usa",
+      "flag",
+      "flags"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/flags/usa-flag.svg"
+  },
+  {
+    "enumName": "BRAZIL_FLAG",
+    "displayName": "Brazil Flag",
+    "category": "Flags",
+    "tags": [
+      "country",
+      "language",
+      "locale",
+      "brazil",
+      "flag",
+      "flags"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/flags/brazil-flag.svg"
+  },
+  {
+    "enumName": "IC_AI",
+    "displayName": "Ic Ai",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "ic",
+      "ai",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/ic-ai.svg"
+  },
+  {
+    "enumName": "IC_AUDIO",
+    "displayName": "Ic Audio",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "ic",
+      "audio",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/ic-audio.svg"
+  },
+  {
+    "enumName": "IC_DOCUMENT",
+    "displayName": "Ic Document",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "ic",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/ic-document.svg"
+  },
+  {
+    "enumName": "IC_EXCEL",
+    "displayName": "Ic Excel",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "ic",
+      "excel",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/ic-excel.svg"
+  },
+  {
+    "enumName": "IC_FILE",
+    "displayName": "Ic File",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "ic",
+      "file",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/ic-file.svg"
+  },
+  {
+    "enumName": "IC_FOLDER",
+    "displayName": "Ic Folder",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "ic",
+      "folder",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/ic-folder.svg"
+  },
+  {
+    "enumName": "IC_IMG",
+    "displayName": "Ic Img",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "ic",
+      "img",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/ic-img.svg"
+  },
+  {
+    "enumName": "IC_JS",
+    "displayName": "Ic Js",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "ic",
+      "js",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/ic-js.svg"
+  },
+  {
+    "enumName": "IC_PDF",
+    "displayName": "Ic Pdf",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "ic",
+      "pdf",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/ic-pdf.svg"
+  },
+  {
+    "enumName": "IC_POWER_POINT",
+    "displayName": "Ic Power Point",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "ic",
+      "power",
+      "point",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/ic-power-point.svg"
+  },
+  {
+    "enumName": "IC_PTS",
+    "displayName": "Ic Pts",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "ic",
+      "pts",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/ic-pts.svg"
+  },
+  {
+    "enumName": "IC_TXT",
+    "displayName": "Ic Txt",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "ic",
+      "txt",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/ic-txt.svg"
+  },
+  {
+    "enumName": "IC_VIDEO",
+    "displayName": "Ic Video",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "ic",
+      "video",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/ic-video.svg"
+  },
+  {
+    "enumName": "IC_WORD",
+    "displayName": "Ic Word",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "ic",
+      "word",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/ic-word.svg"
+  },
+  {
+    "enumName": "IC_ZIP",
+    "displayName": "Ic Zip",
+    "category": "Files & Documents",
+    "tags": [
+      "document",
+      "attachment",
+      "upload",
+      "file type",
+      "ic",
+      "zip",
+      "files & documents"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/files & documents/ic-zip.svg"
+  },
+  {
+    "enumName": "MERCADO_PAGO",
+    "displayName": "Mercado Pago",
+    "category": "Payment Cards",
+    "tags": [
+      "credit",
+      "debit",
+      "card brand",
+      "payment method",
+      "mercado",
+      "pago",
+      "payment cards"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/payment cards/mercado-pago.svg"
+  },
+  {
+    "enumName": "AMAZON_PAY",
+    "displayName": "Amazon Pay",
+    "category": "Payment Cards",
+    "tags": [
+      "credit",
+      "debit",
+      "card brand",
+      "payment method",
+      "amazon",
+      "pay",
+      "payment cards"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/payment cards/amazon-pay.svg"
+  },
+  {
+    "enumName": "GOOGLE_PAY",
+    "displayName": "Google Pay",
+    "category": "Payment Cards",
+    "tags": [
+      "credit",
+      "debit",
+      "card brand",
+      "payment method",
+      "google",
+      "pay",
+      "payment cards"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/payment cards/google-pay.svg"
+  },
+  {
+    "enumName": "PAYPAL",
+    "displayName": "Paypal",
+    "category": "Payment Cards",
+    "tags": [
+      "credit",
+      "debit",
+      "card brand",
+      "payment method",
+      "paypal",
+      "payment cards"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/payment cards/paypal.svg"
+  },
+  {
+    "enumName": "APPLE_PAY",
+    "displayName": "Apple Pay",
+    "category": "Payment Cards",
+    "tags": [
+      "credit",
+      "debit",
+      "card brand",
+      "payment method",
+      "apple",
+      "pay",
+      "payment cards"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/payment cards/apple-pay.svg"
+  },
+  {
+    "enumName": "ELO",
+    "displayName": "Elo",
+    "category": "Payment Cards",
+    "tags": [
+      "credit",
+      "debit",
+      "card brand",
+      "payment method",
+      "elo",
+      "payment cards"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/payment cards/elo.svg"
+  },
+  {
+    "enumName": "MASTERCARD",
+    "displayName": "Mastercard",
+    "category": "Payment Cards",
+    "tags": [
+      "credit",
+      "debit",
+      "card brand",
+      "payment method",
+      "mastercard",
+      "payment cards"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/payment cards/mastercard.svg"
+  },
+  {
+    "enumName": "AMERICAN_EXPRESS",
+    "displayName": "American Express",
+    "category": "Payment Cards",
+    "tags": [
+      "credit",
+      "debit",
+      "card brand",
+      "payment method",
+      "american",
+      "express",
+      "payment cards"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/payment cards/american-express.svg"
+  },
+  {
+    "enumName": "DINERS_CLUB",
+    "displayName": "Diners Club",
+    "category": "Payment Cards",
+    "tags": [
+      "credit",
+      "debit",
+      "card brand",
+      "payment method",
+      "diners",
+      "club",
+      "payment cards"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/payment cards/diners-club.svg"
+  },
+  {
+    "enumName": "CIRRUS",
+    "displayName": "Cirrus",
+    "category": "Payment Cards",
+    "tags": [
+      "credit",
+      "debit",
+      "card brand",
+      "payment method",
+      "cirrus",
+      "payment cards"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/payment cards/cirrus.svg"
+  },
+  {
+    "enumName": "VISA",
+    "displayName": "Visa",
+    "category": "Payment Cards",
+    "tags": [
+      "credit",
+      "debit",
+      "card brand",
+      "payment method",
+      "visa",
+      "payment cards"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/payment cards/visa.svg"
+  },
+  {
+    "enumName": "HIPERCARD",
+    "displayName": "Hipercard",
+    "category": "Payment Cards",
+    "tags": [
+      "credit",
+      "debit",
+      "card brand",
+      "payment method",
+      "hipercard",
+      "payment cards"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/payment cards/hipercard.svg"
+  },
+  {
+    "enumName": "JCB",
+    "displayName": "Jcb",
+    "category": "Payment Cards",
+    "tags": [
+      "credit",
+      "debit",
+      "card brand",
+      "payment method",
+      "jcb",
+      "payment cards"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/payment cards/jcb.svg"
+  },
+  {
+    "enumName": "UNIONPAY",
+    "displayName": "Unionpay",
+    "category": "Payment Cards",
+    "tags": [
+      "credit",
+      "debit",
+      "card brand",
+      "payment method",
+      "unionpay",
+      "payment cards"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/payment cards/unionpay.svg"
+  },
+  {
+    "enumName": "MAESTRO",
+    "displayName": "Maestro",
+    "category": "Payment Cards",
+    "tags": [
+      "credit",
+      "debit",
+      "card brand",
+      "payment method",
+      "maestro",
+      "payment cards"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/payment cards/maestro.svg"
+  },
+  {
+    "enumName": "HIPER",
+    "displayName": "Hiper",
+    "category": "Payment Cards",
+    "tags": [
+      "credit",
+      "debit",
+      "card brand",
+      "payment method",
+      "hiper",
+      "payment cards"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/payment cards/hiper.svg"
+  },
+  {
+    "enumName": "DISCOVER",
+    "displayName": "Discover",
+    "category": "Payment Cards",
+    "tags": [
+      "credit",
+      "debit",
+      "card brand",
+      "payment method",
+      "discover",
+      "payment cards"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/payment cards/discover.svg"
+  },
+  {
+    "enumName": "AMERICANEXPRESS_BADGE",
+    "displayName": "Americanexpress Badge",
+    "category": "Payment Badges",
+    "tags": [
+      "payment method",
+      "checkout",
+      "badge",
+      "americanexpress",
+      "payment badges"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/payment badges/americanexpress-badge.svg"
+  },
+  {
+    "enumName": "APPLEPAY_BADGE",
+    "displayName": "Applepay Badge",
+    "category": "Payment Badges",
+    "tags": [
+      "payment method",
+      "checkout",
+      "badge",
+      "applepay",
+      "payment badges"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/payment badges/applepay-badge.svg"
+  },
+  {
+    "enumName": "BNB_BADGE",
+    "displayName": "Bnb Badge",
+    "category": "Payment Badges",
+    "tags": [
+      "payment method",
+      "checkout",
+      "badge",
+      "bnb",
+      "payment badges"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/payment badges/bnb-badge.svg"
+  },
+  {
+    "enumName": "BOLETO_BADGE",
+    "displayName": "Boleto Badge",
+    "category": "Payment Badges",
+    "tags": [
+      "payment method",
+      "checkout",
+      "badge",
+      "boleto",
+      "payment badges"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/payment badges/boleto-badge.svg"
+  },
+  {
+    "enumName": "CIELO_BADGE",
+    "displayName": "Cielo Badge",
+    "category": "Payment Badges",
+    "tags": [
+      "payment method",
+      "checkout",
+      "badge",
+      "cielo",
+      "payment badges"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/payment badges/cielo-badge.svg"
+  },
+  {
+    "enumName": "ELO_BADGE",
+    "displayName": "Elo Badge",
+    "category": "Payment Badges",
+    "tags": [
+      "payment method",
+      "checkout",
+      "badge",
+      "elo",
+      "payment badges"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/payment badges/elo-badge.svg"
+  },
+  {
+    "enumName": "MASTERCARD_BADGE",
+    "displayName": "Mastercard Badge",
+    "category": "Payment Badges",
+    "tags": [
+      "payment method",
+      "checkout",
+      "badge",
+      "mastercard",
+      "payment badges"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/payment badges/mastercard-badge.svg"
+  },
+  {
+    "enumName": "PIX_BADGE",
+    "displayName": "Pix Badge",
+    "category": "Payment Badges",
+    "tags": [
+      "payment method",
+      "checkout",
+      "badge",
+      "pix",
+      "payment badges"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/payment badges/pix-badge.svg"
+  },
+  {
+    "enumName": "SAMSUNGPAY_BADGE",
+    "displayName": "Samsungpay Badge",
+    "category": "Payment Badges",
+    "tags": [
+      "payment method",
+      "checkout",
+      "badge",
+      "samsungpay",
+      "payment badges"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/payment badges/samsungpay-badge.svg"
+  },
+  {
+    "enumName": "VISA_BADGE",
+    "displayName": "Visa Badge",
+    "category": "Payment Badges",
+    "tags": [
+      "payment method",
+      "checkout",
+      "badge",
+      "visa",
+      "payment badges"
+    ],
+    "source": "unknown",
+    "svgPath": "svgs/payment badges/visa-badge.svg"
+  }
+]
