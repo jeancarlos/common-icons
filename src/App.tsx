@@ -63,9 +63,9 @@ export default function App() {
       <div className="app">
         <header className="header">
           <h1>
-            <span>Zydon</span> Icons
+            Common Icons
           </h1>
-          <p>Browse, search, and copy all Zydon design system icons</p>
+          <p>Browse, search, and copy all design system icons</p>
           <div className="stats">
             <span>
               <strong>{icons.length}</strong> icons

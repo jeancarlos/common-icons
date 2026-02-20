@@ -1,8 +1,8 @@
-# Zydon Icons
+# Common Icons
 
-Browsable, searchable catalog of all Zydon design system icons.
+Browsable, searchable catalog of all design system icons.
 
-**Live at:** [zydon-icons.jeansouza.dev](https://zydon-icons.jeansouza.dev)
+**Live at:** [common-icons.jeansouza.dev](https://common-icons.jeansouza.dev)
 
 ---
 
