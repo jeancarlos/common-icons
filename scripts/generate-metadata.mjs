@@ -4,12 +4,16 @@
  * Reads the IconEnum from common-react source and the Icon component mapping
  * to produce icons-metadata.json with categories, tags, and source info.
  *
+ * When icons can't be categorized by regex rules, calls Gemini CLI to
+ * classify them automatically (uses execFileSync — no shell injection risk).
+ *
  * Usage: node scripts/generate-metadata.mjs [--common-path /path/to/common-react]
  */
 
 import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 import { resolve, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { execFileSync } from 'node:child_process';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = resolve(__dirname, '..');
@@ -197,7 +201,7 @@ const CATEGORY_RULES = [
   {
     name: 'Branding',
     patterns: [/^ZYDON/, /^ZOE_AI$/],
-    tags: ['logo', 'brand', 'identity', 'zydon'],
+    tags: ['logo', 'brand', 'identity'],
   },
   {
     name: 'Flags',
@@ -256,6 +260,8 @@ const CATEGORY_RULES = [
   },
 ];
 
+const VALID_CATEGORIES = new Set(CATEGORY_RULES.map(c => c.name));
+
 function enumToDisplayName(enumName) {
   return enumName
     .split('_')
@@ -286,6 +292,82 @@ function generateNameTags(enumName) {
     .filter(w => w.length > 1 && !/^\d+$/.test(w));
 }
 
+// --- Gemini AI Categorization ---
+
+function isGeminiAvailable() {
+  try {
+    execFileSync('which', ['gemini'], { stdio: 'pipe' });
+    return true;
+  } catch {
+    return false;
+  }
+}
+
+function geminiCategorize(uncategorizedIcons) {
+  const categoryList = CATEGORY_RULES
+    .map(c => `- ${c.name}: ${c.tags.join(', ')}`)
+    .join('\n');
+
+  const iconList = uncategorizedIcons.map(i => i.enumName).join(', ');
+
+  const prompt = [
+    'You are categorizing design system icons for a searchable catalog.',
+    '',
+    'Context: A React design system with 498+ icons from HugeIcons (open source)',
+    'and custom SVGs. Icons are named in SCREAMING_SNAKE_CASE.',
+    '',
+    '## Available Categories (use ONLY these, do NOT invent new ones)',
+    '',
+    categoryList,
+    '',
+    '## Icons to Categorize',
+    '',
+    'These icons could not be matched by regex rules. Based on the enum name,',
+    'determine what the icon represents and assign the best category.',
+    '',
+    iconList,
+    '',
+    '## Output',
+    '',
+    'Respond with ONLY a valid JSON array. No markdown fences, no explanation.',
+    '',
+    '[{"enumName":"ICON_NAME","category":"Category Name","tags":["tag1","tag2","tag3"]}]',
+    '',
+    'Rules:',
+    '- Use ONLY categories from the list above',
+    '- If nothing fits well, use "Interface" as fallback',
+    '- 3-5 tags per icon, lowercase, describing purpose and visual appearance',
+    '- Every icon in the list MUST appear in the output',
+  ].join('\n');
+
+  try {
+    // execFileSync bypasses shell — safe from injection
+    // Uses flash-lite: free tier, no API cost
+    const raw = execFileSync('gemini', ['-m', 'gemini-2.0-flash-lite', '-p', prompt, '-o', 'text'], {
+      encoding: 'utf-8',
+      timeout: 120_000,
+      stdio: ['pipe', 'pipe', 'pipe'],
+    });
+
+    // Extract JSON array from response (Gemini may wrap in markdown fences)
+    const jsonMatch = raw.match(/\[[\s\S]*\]/);
+    if (!jsonMatch) {
+      console.warn('  Could not extract JSON from Gemini response');
+      return [];
+    }
+
+    const suggestions = JSON.parse(jsonMatch[0]);
+
+    // Validate: only accept known categories
+    return suggestions.filter(s =>
+      s.enumName && s.category && VALID_CATEGORIES.has(s.category) && Array.isArray(s.tags)
+    );
+  } catch (err) {
+    console.warn(`  Gemini call failed: ${err.message}`);
+    return [];
+  }
+}
+
 // --- Main ---
 
 const entries = parseIconEnum();
@@ -313,6 +395,36 @@ const metadata = entries.map(enumName => {
   };
 });
 
+// --- Gemini pass for uncategorized icons ---
+
+const uncategorized = metadata.filter(m => m.category === 'Uncategorized');
+
+if (uncategorized.length > 0) {
+  console.log(`\n${uncategorized.length} uncategorized icon(s) — requesting Gemini categorization...`);
+
+  if (isGeminiAvailable()) {
+    const suggestions = geminiCategorize(uncategorized);
+
+    if (suggestions.length > 0) {
+      let applied = 0;
+      for (const s of suggestions) {
+        const icon = metadata.find(m => m.enumName === s.enumName);
+        if (icon && icon.category === 'Uncategorized') {
+          icon.category = s.category;
+          icon.tags = [...new Set([...s.tags, ...icon.tags, s.category.toLowerCase()])];
+          icon.svgPath = `svgs/${enumToKebab(icon.category)}/${enumToKebab(icon.enumName)}.svg`;
+          applied++;
+        }
+      }
+      console.log(`  Applied ${applied}/${uncategorized.length} Gemini suggestions`);
+    } else {
+      console.log('  Gemini returned no valid suggestions');
+    }
+  } else {
+    console.log('  Gemini CLI not available — icons remain uncategorized');
+  }
+}
+
 // Stats
 const categories = {};
 for (const icon of metadata) {
@@ -321,6 +433,12 @@ for (const icon of metadata) {
 console.log('\nCategories:');
 for (const [cat, count] of Object.entries(categories).sort((a, b) => b[1] - a[1])) {
   console.log(`  ${cat}: ${count}`);
+}
+
+const uncatFinal = metadata.filter(m => m.category === 'Uncategorized');
+if (uncatFinal.length > 0) {
+  console.log(`\nWARNING: ${uncatFinal.length} icon(s) still uncategorized:`);
+  uncatFinal.forEach(i => console.log(`  - ${i.enumName}`));
 }
 
 // Write metadata

@@ -4,11 +4,60 @@
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Common Icons</title>
-    <meta name="description" content="Browse, search, and download all design system icons" />
+    <title>Common Icons — Design System Icon Catalog</title>
+    <meta name="description" content="Browse, search, and download 490+ design system icons. 31 categories, click-to-copy IconEnum names, raw SVG exports. Built with @zydon/common." />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://common-icons.jeansouza.dev/" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Common Icons — Design System Icon Catalog" />
+    <meta property="og:description" content="Browse, search, and download 490+ design system icons across 31 categories." />
+    <meta property="og:url" content="https://common-icons.jeansouza.dev/" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Common Icons — Design System Icon Catalog" />
+    <meta name="twitter:description" content="490+ searchable design system icons with click-to-copy and SVG export." />
+
+    <!--
+      JSON-LD structured data — helps AI agents understand site purpose.
+      Icon count is injected at build time by Vite plugin.
+    -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "Common Icons",
+      "url": "https://common-icons.jeansouza.dev/",
+      "description": "Searchable catalog of design system icons with category filtering, click-to-copy enum names, and raw SVG downloads.",
+      "applicationCategory": "DeveloperApplication",
+      "operatingSystem": "Web"
+    }
+    </script>
   </head>
   <body>
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>
+
+    <!--
+      Static fallback for crawlers, agents, and noscript browsers.
+      Vite injects the full icon catalog here at build time.
+    -->
+    <noscript>
+      <h1>Common Icons — Design System Icon Catalog</h1>
+      <p>490+ searchable design system icons across 31 categories.</p>
+      <p>Categories: AI, Arrows, E-Commerce, Finance, Payment Cards, Payment Badges,
+         Users, Files &amp; Documents, Communication, Status &amp; Feedback,
+         Add &amp; Remove, Filter &amp; Sort, Search, Settings &amp; Tools,
+         Layout &amp; Views, Data &amp; Analytics, Social Media, Editing,
+         Logistics, Branding, Flags, Security, Media, Time &amp; Calendar,
+         Navigation, Product Categories, Development, UI Controls,
+         Cloud &amp; Transfer, Business, Interface</p>
+      <p>Use <code>IconEnum.NAME</code> to reference icons in code.</p>
+      <p>Raw SVG files available at <a href="/svgs/">/svgs/</a></p>
+    </noscript>
+
+    <!-- BUILD_ICON_LIST placeholder — replaced by Vite plugin with full icon catalog -->
   </body>
 </html>
