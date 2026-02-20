@@ -1,0 +1,72 @@
+name: Build & Deploy Icon Catalog
+
+on:
+  schedule:
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+  repository_dispatch:
+    types: [common-updated]
+
+permissions:
+  contents: write
+  pages: write
+
+jobs:
+  check-and-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Check @zydon/common version
+        id: version-check
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          LATEST=$(npm view @zydon/common version 2>/dev/null || echo "unknown")
+          CURRENT=$(cat .last-version 2>/dev/null || echo "none")
+          echo "latest=$LATEST" >> "$GITHUB_OUTPUT"
+          echo "current=$CURRENT" >> "$GITHUB_OUTPUT"
+          if [ "$LATEST" = "$CURRENT" ] && [ "$EVENT_NAME" != "workflow_dispatch" ]; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Clone common-react for metadata generation
+        if: steps.version-check.outputs.skip == 'false'
+        run: |
+          git clone --depth 1 https://github.com/zydontecnologia/common-react.git /tmp/common-react
+
+      - name: Install dependencies
+        if: steps.version-check.outputs.skip == 'false'
+        run: npm ci
+
+      - name: Generate metadata & SVGs
+        if: steps.version-check.outputs.skip == 'false'
+        run: |
+          node scripts/generate-metadata.mjs --common-path /tmp/common-react
+          node scripts/extract-svgs.mjs --common-path /tmp/common-react
+
+      - name: Build catalog
+        if: steps.version-check.outputs.skip == 'false'
+        run: npx vite build
+
+      - name: Prepare deploy
+        if: steps.version-check.outputs.skip == 'false'
+        env:
+          LATEST_VERSION: ${{ steps.version-check.outputs.latest }}
+        run: |
+          echo "$LATEST_VERSION" > dist/.last-version
+          cp CNAME dist/CNAME
+
+      - name: Deploy to GitHub Pages
+        if: steps.version-check.outputs.skip == 'false'
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          cname: zydon-icons.jeansouza.dev
