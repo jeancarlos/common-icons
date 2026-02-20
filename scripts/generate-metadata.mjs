@@ -24,15 +24,25 @@ const COMMON_PATH = commonPathArg !== -1
 
 function parseIconEnum() {
   let content;
+
+  // Try local source first
   try {
     content = readFileSync(resolve(COMMON_PATH, 'src/types/icon.ts'), 'utf-8');
+    console.log('Reading enum from local source:', resolve(COMMON_PATH, 'src/types/icon.ts'));
   } catch {
-    console.error('Could not find icon.ts. Provide --common-path pointing to common-react.');
-    process.exit(1);
+    // Fall back to installed npm package .d.ts
+    try {
+      const dtsPath = resolve(ROOT, 'node_modules/@zydon/common/dist/types/icon.d.ts');
+      content = readFileSync(dtsPath, 'utf-8');
+      console.log('Reading enum from npm package:', dtsPath);
+    } catch {
+      console.error('Could not find icon enum in source or npm package.');
+      process.exit(1);
+    }
   }
 
-  // Extract enum values: lines like `  WALLET_03 = 'WALLET_03',`
-  const enumRegex = /^\s*(\w+)\s*=\s*['"]\1['"]/gm;
+  // Extract enum values: lines like `  WALLET_03 = 'WALLET_03',` or `WALLET_03 = "WALLET_03"`
+  const enumRegex = /^\s*(\w+)\s*=\s*["']\1["']/gm;
   const entries = [];
   let match;
   while ((match = enumRegex.exec(content)) !== null) {
